@@ -1,0 +1,1001 @@
+Customer ID,Customer Name,Gender,City,Province/State,Region,Membership Level,Customer Age,Tenure (Years)
+CUST_0001,Jia Brown,Female,San Diego,CA,West,Standard,44,5.1
+CUST_0002,Victor Rodriguez,Male,Detroit,MI,Midwest,Platinum,60,1.6
+CUST_0003,Nadia Jones,Female,Dallas,TX,South,Standard,50,6.6
+CUST_0004,Jack Park,Male,San Antonio,TX,South,Standard,40,10
+CUST_0005,Scarlett Roberts,Female,Atlanta,GA,South,Standard,39,4.5
+CUST_0006,Mei Anderson,Female,Miami,FL,South,Standard,58,3.5
+CUST_0007,Valentina Young,Female,Dallas,TX,South,Platinum,41,4
+CUST_0008,James Ramirez,Male,Portland,OR,West,Standard,23,1.2
+CUST_0009,Hamza Perez,Male,New York,NY,Northeast,Gold,32,8.8
+CUST_0010,Benjamin Taylor,Male,Austin,TX,South,Standard,64,4.1
+CUST_0011,Daniela Khan,Female,Oklahoma City,OK,South,Standard,61,3.9
+CUST_0012,Minji Gupta,Female,Boston,MA,Northeast,Platinum,69,6.6
+CUST_0013,Luna Singh,Female,Jacksonville,FL,South,Standard,68,4.4
+CUST_0014,Robert Sanchez,Male,Hamilton,ON,Eastern Canada,Standard,39,6.5
+CUST_0015,Ella Harris,Female,Edmonton,AB,Western Canada,Standard,32,0.6
+CUST_0016,Aurora Martinez,Female,Los Angeles,CA,West,Platinum,36,8.1
+CUST_0017,Christopher Hall,Male,Baltimore,MD,Northeast,Standard,55,9.4
+CUST_0018,Logan Hernandez,Male,Los Angeles,CA,West,Standard,52,6.5
+CUST_0019,Leila Li,Female,Philadelphia,PA,Northeast,Standard,20,9.5
+CUST_0020,Valentina Iqbal,Female,Houston,TX,South,Standard,34,1.5
+CUST_0021,Riley Silva,Female,Boston,MA,Northeast,Gold,32,4.8
+CUST_0022,Santiago Ramirez,Male,Indianapolis,IN,Midwest,Standard,36,6
+CUST_0023,Abigail Martel,Female,New York,NY,Northeast,Standard,43,5.8
+CUST_0024,Nathan Carter,Male,Phoenix,AZ,West,Standard,27,4
+CUST_0025,Mohamed Campbell,Male,Jacksonville,FL,South,Standard,69,3.4
+CUST_0026,Joshua Wang,Male,Washington,DC,Northeast,Platinum,46,1.3
+CUST_0027,Keiko Zhang,Female,Charlotte,NC,South,Standard,64,3.9
+CUST_0028,Sofia Dubois,Female,Winnipeg,MB,Western Canada,Platinum,42,1.6
+CUST_0029,Aurora Singh,Female,Winnipeg,MB,Western Canada,Standard,65,7.3
+CUST_0030,Matthew Campbell,Male,Calgary,AB,Western Canada,Standard,27,2.1
+CUST_0031,Sophia Walker,Female,Charlotte,NC,South,Platinum,27,0.6
+CUST_0032,Gabriel Rivera,Male,Miami,FL,South,Standard,45,5.5
+CUST_0033,Sophia Sanchez,Female,Houston,TX,South,Gold,66,6
+CUST_0034,Mateo Jones,Male,Raleigh,NC,South,Platinum,32,8.7
+CUST_0035,Adrian Wang,Male,Los Angeles,CA,West,Standard,58,5.8
+CUST_0036,Arjun Zhang,Male,Las Vegas,NV,West,Standard,56,3.5
+CUST_0037,Carlos Allen,Male,Phoenix,AZ,West,Gold,68,8
+CUST_0038,Minji Roberts,Female,Charlotte,NC,South,Standard,47,5.4
+CUST_0039,Ananya Nguyen,Female,Regina,SK,Western Canada,Standard,44,0.8
+CUST_0040,Nicholas Clark,Male,Philadelphia,PA,Northeast,Standard,35,5.7
+CUST_0041,Fatima Anderson,Female,Dallas,TX,South,Standard,21,9.1
+CUST_0042,Aiden Lefebvre,Male,Austin,TX,South,Gold,37,4
+CUST_0043,Amira Lee,Female,New York,NY,Northeast,Standard,36,3
+CUST_0044,Chloe Rivera,Female,Winnipeg,MB,Western Canada,Standard,49,1.4
+CUST_0045,Penelope Carvalho,Female,Los Angeles,CA,West,Gold,58,1.5
+CUST_0046,Aaron Garcia,Male,Indianapolis,IN,Midwest,Standard,32,4.3
+CUST_0047,Yuki Nguyen,Female,Calgary,AB,Western Canada,Standard,51,6
+CUST_0048,Ling Roy,Female,Phoenix,AZ,West,Gold,69,0.8
+CUST_0049,Adam Roy,Male,Los Angeles,CA,West,Standard,48,9.4
+CUST_0050,Hamza Rivera,Male,San Antonio,TX,South,Gold,65,7.6
+CUST_0051,Elena Gonzalez,Female,Austin,TX,South,Platinum,49,5.9
+CUST_0052,Abigail Williams,Female,Houston,TX,South,Standard,37,8.3
+CUST_0053,Ananya Garcia,Female,Raleigh,NC,South,Standard,32,0.8
+CUST_0054,Gabriela Davis,Female,San Jose,CA,West,Standard,62,4.8
+CUST_0055,Lily Baker,Female,San Antonio,TX,South,Standard,40,6.3
+CUST_0056,Isaac Allen,Male,Columbus,OH,Midwest,Platinum,49,8.3
+CUST_0057,Adam Roberts,Male,Phoenix,AZ,West,Platinum,40,7.8
+CUST_0058,Santiago Hernandez,Male,New York,NY,Northeast,Standard,67,2.8
+CUST_0059,Victoria Ramirez,Female,San Francisco,CA,West,Gold,36,9.4
+CUST_0060,Mason Desai,Male,Nashville,TN,South,Platinum,59,1.2
+CUST_0061,Olivia Green,Female,Boston,MA,Northeast,Platinum,38,8.8
+CUST_0062,Zara Thomas,Female,Columbus,OH,Midwest,Standard,34,9.7
+CUST_0063,Leah Silva,Female,Houston,TX,South,Standard,28,1.8
+CUST_0064,Noel Mitchell,Male,Chicago,IL,Midwest,Standard,29,7.2
+CUST_0065,Minji Park,Female,Los Angeles,CA,West,Platinum,63,0.4
+CUST_0066,Joseph Gagnon,Male,Austin,TX,South,Standard,50,4.1
+CUST_0067,Minji Khan,Female,Columbus,OH,Midwest,Standard,42,5.2
+CUST_0068,Mateo Roy,Male,Chicago,IL,Midwest,Standard,49,5.8
+CUST_0069,Samuel Hernandez,Male,Boston,MA,Northeast,Standard,52,9.4
+CUST_0070,Elena Moore,Female,Seattle,WA,West,Standard,28,6.7
+CUST_0071,Joseph Jackson,Male,Boston,MA,Northeast,Platinum,66,4.8
+CUST_0072,Mason Kim,Male,Chicago,IL,Midwest,Standard,20,8.1
+CUST_0073,Nora Sanchez,Female,Los Angeles,CA,West,Standard,63,9.5
+CUST_0074,Mila Garcia,Female,Philadelphia,PA,Northeast,Standard,54,0.2
+CUST_0075,Emily Brown,Female,Detroit,MI,Midwest,Standard,30,9.8
+CUST_0076,Amelia Lewis,Female,Columbus,OH,Midwest,Standard,53,0.9
+CUST_0077,Priya Khan,Female,San Francisco,CA,West,Standard,35,8.1
+CUST_0078,James Taylor,Male,Dallas,TX,South,Standard,28,2.8
+CUST_0079,Adrian Nelson,Male,Chicago,IL,Midwest,Standard,51,1.3
+CUST_0080,Sebastian Soto,Male,Philadelphia,PA,Northeast,Standard,34,4.4
+CUST_0081,Isabella King,Female,Portland,OR,West,Standard,31,6.4
+CUST_0082,Mariana Davis,Female,Los Angeles,CA,West,Platinum,52,3.8
+CUST_0083,Isaac Gonzalez,Male,Austin,TX,South,Platinum,64,0.5
+CUST_0084,Joshua Davis,Male,Nashville,TN,South,Standard,33,6
+CUST_0085,Mei Martel,Female,Chicago,IL,Midwest,Standard,27,9
+CUST_0086,Christopher Nelson,Male,Austin,TX,South,Platinum,27,3.8
+CUST_0087,Fatima Hill,Female,Toronto,ON,Eastern Canada,Standard,46,2.2
+CUST_0088,Scarlett Khan,Female,San Antonio,TX,South,Gold,31,4.4
+CUST_0089,Aria Baker,Female,Philadelphia,PA,Northeast,Platinum,20,0.5
+CUST_0090,Adam Rodriguez,Male,Columbus,OH,Midwest,Standard,62,8.2
+CUST_0091,Penelope Torres,Female,Charlotte,NC,South,Standard,59,8.3
+CUST_0092,Hannah Scott,Female,San Francisco,CA,West,Platinum,61,5.9
+CUST_0093,Sarah Ramirez,Female,Miami,FL,South,Standard,70,3.5
+CUST_0094,Lily Adams,Female,Indianapolis,IN,Midwest,Standard,30,8
+CUST_0095,Lucia Nelson,Female,San Diego,CA,West,Standard,58,5.5
+CUST_0096,Julia Adams,Female,New York,NY,Northeast,Standard,62,8.3
+CUST_0097,Rohan Soto,Male,New York,NY,Northeast,Gold,50,6.3
+CUST_0098,Nadia Kim,Female,Las Vegas,NV,West,Gold,36,7.8
+CUST_0099,Penelope Iqbal,Female,San Antonio,TX,South,Platinum,52,6
+CUST_0100,Noah Mitchell,Male,San Antonio,TX,South,Standard,51,4.1
+CUST_0101,Sophia Perez,Female,Oklahoma City,OK,South,Standard,48,9.6
+CUST_0102,Amira Clark,Female,Portland,OR,West,Standard,40,5.4
+CUST_0103,Charlotte Castillo,Female,Montreal,QC,Eastern Canada,Standard,40,6.1
+CUST_0104,Caleb Gonzalez,Male,Atlanta,GA,South,Standard,59,2.2
+CUST_0105,Ryan Hall,Male,Dallas,TX,South,Platinum,42,6.3
+CUST_0106,Sophia Martinez,Female,Los Angeles,CA,West,Platinum,25,5.7
+CUST_0107,Hannah Rodriguez,Female,Las Vegas,NV,West,Standard,41,1.8
+CUST_0108,Hamza Zhang,Male,Vancouver,BC,Western Canada,Gold,69,0.6
+CUST_0109,Priya Clark,Female,New York,NY,Northeast,Standard,57,6
+CUST_0110,Olivia King,Female,Calgary,AB,Western Canada,Standard,56,7.6
+CUST_0111,Hannah Smith,Female,New York,NY,Northeast,Gold,64,5.2
+CUST_0112,Zara Young,Female,San Diego,CA,West,Standard,70,2.3
+CUST_0113,Alejandro Gupta,Male,Vancouver,BC,Western Canada,Platinum,27,6.7
+CUST_0114,Luis Castillo,Male,Columbus,OH,Midwest,Gold,60,0.8
+CUST_0115,Lucas Martin,Male,Washington,DC,Northeast,Standard,68,4.4
+CUST_0116,Layla Wright,Female,Charlotte,NC,South,Gold,54,1.6
+CUST_0117,John Taylor,Male,Phoenix,AZ,West,Standard,70,1.8
+CUST_0118,Leo Moore,Male,Vancouver,BC,Western Canada,Standard,30,2
+CUST_0119,Diego Hall,Male,Boston,MA,Northeast,Standard,43,3.9
+CUST_0120,Amelia Li,Female,Los Angeles,CA,West,Standard,68,0.5
+CUST_0121,Zoe Silva,Female,Oklahoma City,OK,South,Gold,40,4
+CUST_0122,Noah Martel,Male,Jacksonville,FL,South,Standard,70,5.1
+CUST_0123,Aaron Smith,Male,San Diego,CA,West,Gold,21,4.8
+CUST_0124,Hannah Patel,Female,Charlotte,NC,South,Standard,59,3.8
+CUST_0125,Hugo Sanchez,Male,New York,NY,Northeast,Standard,38,8.4
+CUST_0126,Dylan Martin,Male,Charlotte,NC,South,Gold,58,1.5
+CUST_0127,Diego Martinez,Male,Philadelphia,PA,Northeast,Standard,47,5.1
+CUST_0128,Dylan Khan,Male,Atlanta,GA,South,Standard,36,0.6
+CUST_0129,Isaac Green,Male,Chicago,IL,Midwest,Standard,25,0.7
+CUST_0130,Xavier Jones,Male,Denver,CO,West,Standard,38,5.7
+CUST_0131,Gabriel Martel,Male,New York,NY,Northeast,Standard,57,5.7
+CUST_0132,Layla Taylor,Female,Columbus,OH,Midwest,Gold,47,8.8
+CUST_0133,Thomas Perez,Male,Washington,DC,Northeast,Standard,21,5.6
+CUST_0134,Scarlett Green,Female,Calgary,AB,Western Canada,Standard,57,9.6
+CUST_0135,Jia Silva,Female,Portland,OR,West,Platinum,56,0.5
+CUST_0136,Ryan Carvalho,Male,Atlanta,GA,South,Standard,70,1
+CUST_0137,Emily Hernandez,Female,Detroit,MI,Midwest,Platinum,23,0.4
+CUST_0138,Matthew Park,Male,Houston,TX,South,Standard,41,1.9
+CUST_0139,Penelope Chen,Female,Nashville,TN,South,Standard,45,5.4
+CUST_0140,Michael Lee,Male,New York,NY,Northeast,Platinum,68,6.5
+CUST_0141,James Sanchez,Male,Phoenix,AZ,West,Standard,62,0.5
+CUST_0142,Hamza Jackson,Male,Miami,FL,South,Gold,55,9.5
+CUST_0143,Sarah Dubois,Female,Chicago,IL,Midwest,Standard,32,8.4
+CUST_0144,Sofia Gupta,Female,Philadelphia,PA,Northeast,Standard,51,3
+CUST_0145,Elena Campbell,Female,San Diego,CA,West,Standard,36,0.8
+CUST_0146,Christopher Gupta,Male,Montreal,QC,Eastern Canada,Standard,60,1.7
+CUST_0147,Priya Sanchez,Female,Raleigh,NC,South,Platinum,55,1.3
+CUST_0148,Khalid Flores,Male,New York,NY,Northeast,Standard,65,1.2
+CUST_0149,Leila Jones,Female,Philadelphia,PA,Northeast,Platinum,38,5.2
+CUST_0150,Aaron Lee,Male,Denver,CO,West,Platinum,54,2.5
+CUST_0151,Gabriel Brown,Male,Philadelphia,PA,Northeast,Standard,65,3.6
+CUST_0152,Mateo Thompson,Male,Houston,TX,South,Standard,59,9.9
+CUST_0153,Anthony Anderson,Male,Toronto,ON,Eastern Canada,Platinum,47,6.8
+CUST_0154,Yuki Davis,Female,Los Angeles,CA,West,Platinum,20,9.5
+CUST_0155,Leo Green,Male,Calgary,AB,Western Canada,Standard,61,1.4
+CUST_0156,Yuki Jackson,Female,Washington,DC,Northeast,Standard,37,3.8
+CUST_0157,Amir Rivera,Male,Phoenix,AZ,West,Standard,67,5.5
+CUST_0158,Amelia Ramirez,Female,San Francisco,CA,West,Gold,59,0.8
+CUST_0159,Daniel Silva,Male,San Diego,CA,West,Standard,52,0
+CUST_0160,Kenji Anderson,Male,Nashville,TN,South,Gold,31,6.7
+CUST_0161,Jia Torres,Female,San Jose,CA,West,Standard,27,6.4
+CUST_0162,Ryan Smith,Male,Las Vegas,NV,West,Standard,43,4.1
+CUST_0163,Hamza Castillo,Male,Austin,TX,South,Standard,35,4.9
+CUST_0164,Alice White,Female,Los Angeles,CA,West,Standard,69,4.2
+CUST_0165,Lily Clark,Female,San Francisco,CA,West,Standard,23,0.2
+CUST_0166,Rohan Flores,Male,Chicago,IL,Midwest,Standard,57,3.4
+CUST_0167,Liam Moreau,Male,Charlotte,NC,South,Standard,63,1.8
+CUST_0168,Hana Lefebvre,Female,Chicago,IL,Midwest,Standard,46,1
+CUST_0169,Jack Scott,Male,Oklahoma City,OK,South,Standard,28,9.6
+CUST_0170,Ali White,Male,Dallas,TX,South,Platinum,66,6
+CUST_0171,Michael White,Male,Indianapolis,IN,Midwest,Standard,35,7.3
+CUST_0172,Hana Brown,Female,Austin,TX,South,Standard,31,3.2
+CUST_0173,Fatima Castillo,Female,Phoenix,AZ,West,Standard,50,3.9
+CUST_0174,Daniel King,Male,Calgary,AB,Western Canada,Platinum,43,2.4
+CUST_0175,Thomas Singh,Male,New York,NY,Northeast,Standard,33,1
+CUST_0176,Daniel Carter,Male,Jacksonville,FL,South,Gold,64,1.8
+CUST_0177,Yuki Li,Female,Chicago,IL,Midwest,Gold,44,8
+CUST_0178,Benjamin Thompson,Male,Los Angeles,CA,West,Gold,53,6.8
+CUST_0179,Omar Carvalho,Male,San Francisco,CA,West,Standard,22,5.5
+CUST_0180,Nora Li,Female,San Diego,CA,West,Gold,43,4.8
+CUST_0181,Rohan Roy,Male,Dallas,TX,South,Standard,61,9.2
+CUST_0182,Lucia Green,Female,Chicago,IL,Midwest,Standard,28,0.7
+CUST_0183,Alexander Singh,Male,New York,NY,Northeast,Gold,45,2.8
+CUST_0184,Julian Dubois,Male,San Diego,CA,West,Standard,39,3.5
+CUST_0185,Alexander Zhang,Male,San Diego,CA,West,Gold,59,7.8
+CUST_0186,Fatima Desai,Female,Denver,CO,West,Standard,29,9.9
+CUST_0187,Alice Singh,Female,Indianapolis,IN,Midwest,Gold,38,2.4
+CUST_0188,Elizabeth Martinez,Female,San Diego,CA,West,Standard,22,8.7
+CUST_0189,Gabriel Flores,Male,Toronto,ON,Eastern Canada,Standard,43,8.3
+CUST_0190,Ananya Miller,Female,Charlotte,NC,South,Standard,24,2.2
+CUST_0191,Khalid Nguyen,Male,Ottawa,ON,Eastern Canada,Platinum,22,4
+CUST_0192,Nathan Lefebvre,Male,Dallas,TX,South,Standard,46,4.1
+CUST_0193,Elizabeth Williams,Female,Phoenix,AZ,West,Standard,35,9.8
+CUST_0194,Caleb Chen,Male,Nashville,TN,South,Standard,68,1.8
+CUST_0195,Anthony Campbell,Male,Houston,TX,South,Gold,34,8
+CUST_0196,Diego Silva,Male,Baltimore,MD,Northeast,Standard,54,3.3
+CUST_0197,Joshua Nguyen,Male,New York,NY,Northeast,Standard,31,7.3
+CUST_0198,Liam Scott,Male,New York,NY,Northeast,Standard,60,4.2
+CUST_0199,Scarlett Green,Female,Los Angeles,CA,West,Standard,63,5.8
+CUST_0200,Carlos Carvalho,Male,San Antonio,TX,South,Standard,45,8.3
+CUST_0201,Amelia Gonzalez,Female,New York,NY,Northeast,Standard,66,8
+CUST_0202,Amelia Patel,Female,Atlanta,GA,South,Gold,53,8.7
+CUST_0203,Omar Roberts,Male,Columbus,OH,Midwest,Standard,42,0.6
+CUST_0204,Khalid Robinson,Male,New York,NY,Northeast,Standard,50,6.9
+CUST_0205,Robert Roy,Male,Milwaukee,WI,Midwest,Standard,69,1.4
+CUST_0206,Isabella Harris,Female,Seattle,WA,West,Platinum,39,4.2
+CUST_0207,Owen Clark,Male,Oklahoma City,OK,South,Platinum,31,5.5
+CUST_0208,Ling Chen,Female,Calgary,AB,Western Canada,Gold,42,4
+CUST_0209,Jack Singh,Male,San Antonio,TX,South,Standard,23,5.2
+CUST_0210,Priya Campbell,Female,Jacksonville,FL,South,Standard,42,10
+CUST_0211,Christopher Hill,Male,Jacksonville,FL,South,Standard,67,1.4
+CUST_0212,Isaac Thomas,Male,Houston,TX,South,Standard,67,6.8
+CUST_0213,Camila Perez,Female,Quebec City,QC,Eastern Canada,Standard,20,4
+CUST_0214,Maryam Zhang,Female,San Antonio,TX,South,Gold,44,1.3
+CUST_0215,Hao Lee,Male,Los Angeles,CA,West,Platinum,21,1.6
+CUST_0216,Amelia Iqbal,Female,Boston,MA,Northeast,Gold,49,9.5
+CUST_0217,Ryan Thomas,Male,Los Angeles,CA,West,Standard,22,8.8
+CUST_0218,Layla Khan,Female,Portland,OR,West,Gold,40,9.1
+CUST_0219,Ananya Walker,Female,Mississauga,ON,Eastern Canada,Standard,44,9.9
+CUST_0220,Aaron Adams,Male,Phoenix,AZ,West,Standard,39,2.1
+CUST_0221,Logan Young,Male,Miami,FL,South,Gold,68,3.6
+CUST_0222,Matthew Khan,Male,San Antonio,TX,South,Standard,41,6.7
+CUST_0223,Mei King,Female,Winnipeg,MB,Western Canada,Standard,40,4.8
+CUST_0224,Zoe Rodriguez,Female,Chicago,IL,Midwest,Standard,52,4.2
+CUST_0225,Santiago Hernandez,Male,Phoenix,AZ,West,Gold,57,3.6
+CUST_0226,David Martinez,Male,Washington,DC,Northeast,Gold,34,5.9
+CUST_0227,Victoria Taylor,Female,Charlotte,NC,South,Standard,65,5.8
+CUST_0228,Avery Silva,Female,Austin,TX,South,Gold,34,1.6
+CUST_0229,Avery Mitchell,Female,Toronto,ON,Eastern Canada,Standard,65,4.7
+CUST_0230,John Wang,Male,Portland,OR,West,Standard,44,5.5
+CUST_0231,Andrew Harris,Male,San Diego,CA,West,Gold,40,5.7
+CUST_0232,Hugo Lee,Male,Quebec City,QC,Eastern Canada,Gold,43,2.1
+CUST_0233,Leah Martel,Female,Denver,CO,West,Platinum,24,7.4
+CUST_0234,Logan Moreau,Male,Atlanta,GA,South,Standard,25,0.3
+CUST_0235,Avery Chen,Female,Atlanta,GA,South,Gold,68,3.5
+CUST_0236,Alejandro Scott,Male,Chicago,IL,Midwest,Gold,62,7.8
+CUST_0237,Scarlett Soto,Female,Austin,TX,South,Platinum,67,5.6
+CUST_0238,Mei Anderson,Female,Vancouver,BC,Western Canada,Standard,63,2.6
+CUST_0239,Camila Hill,Female,Baltimore,MD,Northeast,Gold,66,6.9
+CUST_0240,Christopher Desai,Male,Los Angeles,CA,West,Standard,42,5.7
+CUST_0241,Gabriel Smith,Male,Columbus,OH,Midwest,Standard,23,8
+CUST_0242,Caleb Thompson,Male,Columbus,OH,Midwest,Standard,46,7.4
+CUST_0243,Leah Hill,Female,New York,NY,Northeast,Standard,37,6.1
+CUST_0244,Isabella Singh,Female,Atlanta,GA,South,Standard,40,4.9
+CUST_0245,Maryam King,Female,Austin,TX,South,Platinum,47,1.3
+CUST_0246,Lucia Green,Female,New York,NY,Northeast,Standard,54,2.6
+CUST_0247,Grace Gonzalez,Female,Chicago,IL,Midwest,Gold,41,4.2
+CUST_0248,Thomas Desai,Male,New York,NY,Northeast,Standard,59,6
+CUST_0249,Alice Garcia,Female,Philadelphia,PA,Northeast,Standard,42,5.1
+CUST_0250,Jack Wang,Male,San Jose,CA,West,Standard,22,2.9
+CUST_0251,Nathan Williams,Male,Philadelphia,PA,Northeast,Standard,59,0.1
+CUST_0252,Fatima Moreau,Female,Winnipeg,MB,Western Canada,Standard,69,5
+CUST_0253,Jack Carter,Male,Atlanta,GA,South,Standard,29,2.9
+CUST_0254,Jack Campbell,Male,Seattle,WA,West,Standard,44,7.3
+CUST_0255,Lucia Kim,Female,Boston,MA,Northeast,Standard,68,0.2
+CUST_0256,Leo Gagnon,Male,Phoenix,AZ,West,Standard,27,5.8
+CUST_0257,Elizabeth Martel,Female,Chicago,IL,Midwest,Standard,30,9.4
+CUST_0258,Christopher Castillo,Male,Montreal,QC,Eastern Canada,Standard,24,1.7
+CUST_0259,Joshua Anderson,Male,Montreal,QC,Eastern Canada,Platinum,64,4.7
+CUST_0260,Ryan Young,Male,Chicago,IL,Midwest,Platinum,56,0.9
+CUST_0261,Aaron Silva,Male,Detroit,MI,Midwest,Gold,64,6.3
+CUST_0262,Mariana Moore,Female,San Antonio,TX,South,Standard,57,5.5
+CUST_0263,Alejandro Nelson,Male,Dallas,TX,South,Gold,48,4.1
+CUST_0264,Nadia Wright,Female,Denver,CO,West,Gold,24,5.2
+CUST_0265,Logan Patel,Male,San Francisco,CA,West,Gold,28,9
+CUST_0266,Camila Allen,Female,Portland,OR,West,Standard,67,2
+CUST_0267,Olivia Wilson,Female,Denver,CO,West,Gold,21,0.2
+CUST_0268,Victoria King,Female,Los Angeles,CA,West,Gold,20,8.6
+CUST_0269,Hamza Lefebvre,Male,Baltimore,MD,Northeast,Standard,59,5.8
+CUST_0270,Khalid Brown,Male,Denver,CO,West,Gold,70,8.9
+CUST_0271,Logan Khan,Male,Dallas,TX,South,Standard,49,6
+CUST_0272,Emma Lewis,Female,Baltimore,MD,Northeast,Standard,30,8.1
+CUST_0273,Samuel Garcia,Male,Vancouver,BC,Western Canada,Standard,47,4.3
+CUST_0274,Diego Carter,Male,Phoenix,AZ,West,Gold,63,7.5
+CUST_0275,Olivia Flores,Female,Oklahoma City,OK,South,Standard,31,9.1
+CUST_0276,Ethan Martel,Male,Denver,CO,West,Standard,58,5.7
+CUST_0277,Aurora Carvalho,Female,Washington,DC,Northeast,Standard,45,1.8
+CUST_0278,Ali Clark,Male,Los Angeles,CA,West,Standard,32,2.7
+CUST_0279,Jack Garcia,Male,Charlotte,NC,South,Standard,27,2
+CUST_0280,Ella Gonzalez,Female,San Antonio,TX,South,Gold,47,2.5
+CUST_0281,Arjun Gagnon,Male,Los Angeles,CA,West,Gold,49,3.1
+CUST_0282,Hana Roy,Female,San Francisco,CA,West,Standard,28,5.6
+CUST_0283,Mohamed Jackson,Male,Chicago,IL,Midwest,Standard,58,5.9
+CUST_0284,Gabriel Nelson,Male,New York,NY,Northeast,Standard,50,4.3
+CUST_0285,Noor Martin,Female,Seattle,WA,West,Platinum,40,6.2
+CUST_0286,Emily Silva,Female,Miami,FL,South,Standard,66,0.8
+CUST_0287,Amira Baker,Female,San Francisco,CA,West,Standard,53,0.9
+CUST_0288,Owen Thompson,Male,Los Angeles,CA,West,Standard,50,1.7
+CUST_0289,Grace Johnson,Female,San Diego,CA,West,Gold,44,5.2
+CUST_0290,Adam Perez,Male,London,ON,Eastern Canada,Platinum,31,2.1
+CUST_0291,Kenji Singh,Male,Vancouver,BC,Western Canada,Gold,20,2.8
+CUST_0292,Lily Iqbal,Female,Atlanta,GA,South,Gold,41,4
+CUST_0293,Hugo Miller,Male,Jacksonville,FL,South,Standard,59,8.1
+CUST_0294,Yuki Park,Female,Miami,FL,South,Standard,56,0.1
+CUST_0295,Noah Castillo,Male,Dallas,TX,South,Standard,66,6.5
+CUST_0296,Gabriel Thomas,Male,Houston,TX,South,Standard,20,6.7
+CUST_0297,Zoe Chen,Female,Hamilton,ON,Eastern Canada,Standard,20,8
+CUST_0298,Nora Iqbal,Female,San Antonio,TX,South,Standard,61,9.3
+CUST_0299,Nadia Lopez,Female,Las Vegas,NV,West,Standard,61,0.2
+CUST_0300,Julia Li,Female,Houston,TX,South,Platinum,40,1.5
+CUST_0301,Camila Jones,Female,Columbus,OH,Midwest,Gold,34,8.9
+CUST_0302,Lily Clark,Female,Los Angeles,CA,West,Gold,36,4.6
+CUST_0303,Mariana Lopez,Female,Dallas,TX,South,Gold,41,5.6
+CUST_0304,Arjun Taylor,Male,Los Angeles,CA,West,Standard,57,6.6
+CUST_0305,Joseph Garcia,Male,Washington,DC,Northeast,Gold,54,6.8
+CUST_0306,Benjamin Jones,Male,Montreal,QC,Eastern Canada,Standard,64,9.3
+CUST_0307,Elena Singh,Female,New York,NY,Northeast,Gold,35,10
+CUST_0308,Priya Ramirez,Female,Chicago,IL,Midwest,Standard,27,7.2
+CUST_0309,Anthony Carvalho,Male,Regina,SK,Western Canada,Platinum,66,2.9
+CUST_0310,Harper Khan,Female,Dallas,TX,South,Standard,36,8.8
+CUST_0311,Daniela Allen,Female,Baltimore,MD,Northeast,Standard,36,0.5
+CUST_0312,Omar Roy,Male,Detroit,MI,Midwest,Platinum,45,2.3
+CUST_0313,Maryam Roberts,Female,Miami,FL,South,Standard,32,9
+CUST_0314,Aurora Jackson,Female,Detroit,MI,Midwest,Gold,36,2.6
+CUST_0315,Mateo Carvalho,Male,San Antonio,TX,South,Gold,57,2.2
+CUST_0316,Zara Soto,Female,Milwaukee,WI,Midwest,Gold,36,1.4
+CUST_0317,Thomas Campbell,Male,Baltimore,MD,Northeast,Platinum,67,8.6
+CUST_0318,Mila Hill,Female,Indianapolis,IN,Midwest,Platinum,33,5
+CUST_0319,Olivia Silva,Female,Houston,TX,South,Standard,64,6.7
+CUST_0320,Olivia Allen,Female,Indianapolis,IN,Midwest,Gold,25,2.4
+CUST_0321,Gabriel Gonzalez,Male,Los Angeles,CA,West,Gold,54,7.6
+CUST_0322,Zara Zhang,Female,New York,NY,Northeast,Gold,65,7.6
+CUST_0323,Grace Miller,Female,Jacksonville,FL,South,Standard,33,3.1
+CUST_0324,Sebastian Wilson,Male,New York,NY,Northeast,Gold,66,4.1
+CUST_0325,Zoe Jackson,Female,Washington,DC,Northeast,Platinum,27,2.1
+CUST_0326,Nathan Zhang,Male,Milwaukee,WI,Midwest,Platinum,34,9.8
+CUST_0327,Abigail Martin,Female,Chicago,IL,Midwest,Standard,46,6.5
+CUST_0328,Carlos Lewis,Male,Baltimore,MD,Northeast,Standard,32,9.3
+CUST_0329,Benjamin White,Male,Columbus,OH,Midwest,Standard,68,3
+CUST_0330,Alexander Moreau,Male,Philadelphia,PA,Northeast,Gold,50,7.8
+CUST_0331,Keiko Singh,Female,Los Angeles,CA,West,Gold,54,7.7
+CUST_0332,Thomas Davis,Male,New York,NY,Northeast,Standard,25,6.9
+CUST_0333,Mariana Roy,Female,New York,NY,Northeast,Standard,24,9.7
+CUST_0334,Omar Lewis,Male,Phoenix,AZ,West,Standard,41,3.9
+CUST_0335,Mason Taylor,Male,San Antonio,TX,South,Standard,68,1.3
+CUST_0336,Leah Soto,Female,San Diego,CA,West,Platinum,42,6.7
+CUST_0337,Nora Garcia,Female,Philadelphia,PA,Northeast,Gold,44,7.3
+CUST_0338,Mohamed Patel,Male,Seattle,WA,West,Standard,53,5.8
+CUST_0339,Naomi Carvalho,Female,Indianapolis,IN,Midwest,Standard,45,2.1
+CUST_0340,Leila Ramirez,Female,Raleigh,NC,South,Standard,66,5
+CUST_0341,Camila Roy,Female,San Francisco,CA,West,Platinum,24,3.1
+CUST_0342,Liam Green,Male,Philadelphia,PA,Northeast,Standard,45,4.3
+CUST_0343,Benjamin Carvalho,Male,Austin,TX,South,Standard,39,6.5
+CUST_0344,Sophia Green,Female,Dallas,TX,South,Standard,25,7.5
+CUST_0345,Owen Carter,Male,San Antonio,TX,South,Gold,25,2.3
+CUST_0346,Leila Carter,Female,Nashville,TN,South,Gold,69,4.1
+CUST_0347,Emily Gupta,Female,San Francisco,CA,West,Gold,37,2.7
+CUST_0348,Emily Williams,Female,Ottawa,ON,Eastern Canada,Standard,23,2
+CUST_0349,Mei Martinez,Female,Los Angeles,CA,West,Standard,36,7.8
+CUST_0350,Victoria Wright,Female,Calgary,AB,Western Canada,Standard,33,9.1
+CUST_0351,Wei Johnson,Male,Los Angeles,CA,West,Gold,33,3.7
+CUST_0352,Penelope White,Female,Austin,TX,South,Standard,32,7.5
+CUST_0353,Xavier Nguyen,Male,Houston,TX,South,Standard,26,9
+CUST_0354,Khalid Perez,Male,Raleigh,NC,South,Platinum,63,8.5
+CUST_0355,Avery Sanchez,Female,New York,NY,Northeast,Platinum,34,1.8
+CUST_0356,Camila Nelson,Female,Houston,TX,South,Standard,38,9.6
+CUST_0357,Elena Kim,Female,New York,NY,Northeast,Standard,62,3.8
+CUST_0358,Noor Hill,Female,New York,NY,Northeast,Standard,66,3.4
+CUST_0359,Robert Lewis,Male,San Francisco,CA,West,Gold,63,0.6
+CUST_0360,David Martin,Male,Phoenix,AZ,West,Gold,54,4.9
+CUST_0361,Layla Green,Female,San Jose,CA,West,Standard,36,1.1
+CUST_0362,John Zhang,Male,Dallas,TX,South,Standard,54,2.5
+CUST_0363,Aaron Martin,Male,Philadelphia,PA,Northeast,Gold,38,3.2
+CUST_0364,Julian Jackson,Male,Boston,MA,Northeast,Platinum,39,8.1
+CUST_0365,Jack Soto,Male,Los Angeles,CA,West,Standard,55,8.8
+CUST_0366,Xavier Robinson,Male,Columbus,OH,Midwest,Standard,54,3
+CUST_0367,Leo Li,Male,San Diego,CA,West,Standard,51,8.6
+CUST_0368,Omar King,Male,Charlotte,NC,South,Standard,67,8.6
+CUST_0369,Logan Perez,Male,Boston,MA,Northeast,Platinum,63,7.6
+CUST_0370,Ling Castillo,Female,Houston,TX,South,Gold,59,1.5
+CUST_0371,Gabriel Garcia,Male,Columbus,OH,Midwest,Gold,43,6.9
+CUST_0372,Arjun Clark,Male,Raleigh,NC,South,Standard,36,9.5
+CUST_0373,Isabella Martinez,Female,Miami,FL,South,Gold,26,6.8
+CUST_0374,Sebastian Mitchell,Male,Houston,TX,South,Standard,62,3.3
+CUST_0375,Emily Desai,Female,New York,NY,Northeast,Standard,69,5
+CUST_0376,Stella Khan,Female,Baltimore,MD,Northeast,Standard,20,6.5
+CUST_0377,Hugo Khan,Male,Miami,FL,South,Standard,54,5.1
+CUST_0378,Hao Johnson,Male,Detroit,MI,Midwest,Gold,51,1.2
+CUST_0379,Priya Lewis,Female,Toronto,ON,Eastern Canada,Standard,55,3.1
+CUST_0380,Gabriela Silva,Female,Milwaukee,WI,Midwest,Standard,32,8
+CUST_0381,Diego Martel,Male,Indianapolis,IN,Midwest,Standard,25,8.6
+CUST_0382,Aurora Sanchez,Female,New York,NY,Northeast,Standard,33,1.4
+CUST_0383,Samuel Martinez,Male,Austin,TX,South,Standard,56,9.5
+CUST_0384,Nora Li,Female,Chicago,IL,Midwest,Standard,67,3.3
+CUST_0385,Lucas Khan,Male,Indianapolis,IN,Midwest,Gold,34,6.6
+CUST_0386,Olivia Perez,Female,Vancouver,BC,Western Canada,Standard,66,7.5
+CUST_0387,Abigail Chen,Female,Denver,CO,West,Standard,23,8.1
+CUST_0388,Priya Mitchell,Female,Los Angeles,CA,West,Standard,59,9.5
+CUST_0389,Sophia Lee,Female,Toronto,ON,Eastern Canada,Gold,35,3.1
+CUST_0390,Andrew Perez,Male,Nashville,TN,South,Standard,47,8.6
+CUST_0391,Andrew Robinson,Male,Indianapolis,IN,Midwest,Standard,35,1.3
+CUST_0392,Yusuf Harris,Male,San Jose,CA,West,Standard,23,7.1
+CUST_0393,Leo Ramirez,Male,Phoenix,AZ,West,Standard,64,7.4
+CUST_0394,Noor Martel,Female,Houston,TX,South,Standard,45,6.8
+CUST_0395,Yusuf Hall,Male,Los Angeles,CA,West,Gold,47,2.5
+CUST_0396,Ethan Silva,Male,Los Angeles,CA,West,Gold,51,8.7
+CUST_0397,Lucia Miller,Female,Baltimore,MD,Northeast,Standard,64,1.7
+CUST_0398,Gabriela Carter,Female,San Antonio,TX,South,Gold,21,0.5
+CUST_0399,Mia Rodriguez,Female,Jacksonville,FL,South,Gold,50,7.2
+CUST_0400,Keiko Scott,Female,Calgary,AB,Western Canada,Standard,22,4.8
+CUST_0401,Alejandro Smith,Male,Dallas,TX,South,Standard,27,8.5
+CUST_0402,William Martinez,Male,Las Vegas,NV,West,Standard,43,3.8
+CUST_0403,Daniela Scott,Female,Los Angeles,CA,West,Standard,34,1.7
+CUST_0404,Aurora Rivera,Female,Raleigh,NC,South,Gold,62,8.4
+CUST_0405,Mason Young,Male,Detroit,MI,Midwest,Platinum,50,5.5
+CUST_0406,Sophie Young,Female,Los Angeles,CA,West,Platinum,28,1.9
+CUST_0407,John Garcia,Male,Montreal,QC,Eastern Canada,Gold,58,7.2
+CUST_0408,Wei Mitchell,Male,San Jose,CA,West,Standard,64,5.1
+CUST_0409,Sophie Nguyen,Female,Boston,MA,Northeast,Standard,21,6
+CUST_0410,Aisha Taylor,Female,Detroit,MI,Midwest,Gold,27,4.6
+CUST_0411,Jia Clark,Female,San Antonio,TX,South,Standard,26,8.3
+CUST_0412,Christopher Zhang,Male,Edmonton,AB,Western Canada,Gold,63,8.3
+CUST_0413,Elena Roberts,Female,Jacksonville,FL,South,Gold,70,7.1
+CUST_0414,Javier Wright,Male,Las Vegas,NV,West,Gold,58,1.1
+CUST_0415,Julian Harris,Male,San Diego,CA,West,Gold,61,8.4
+CUST_0416,Sophia Ramirez,Female,Boston,MA,Northeast,Standard,35,6.7
+CUST_0417,Avery Anderson,Female,Chicago,IL,Midwest,Gold,54,7
+CUST_0418,Jia Brown,Female,Los Angeles,CA,West,Platinum,49,3.6
+CUST_0419,Harper Clark,Female,Raleigh,NC,South,Standard,29,8.8
+CUST_0420,Yuki Sanchez,Female,Boston,MA,Northeast,Gold,57,7.3
+CUST_0421,Penelope Jackson,Female,Dallas,TX,South,Standard,37,1.1
+CUST_0422,Adam Taylor,Male,Atlanta,GA,South,Platinum,69,4.1
+CUST_0423,Gabriel Nelson,Male,Charlotte,NC,South,Standard,24,8.9
+CUST_0424,Christopher Green,Male,Baltimore,MD,Northeast,Standard,48,0.5
+CUST_0425,Isaac Adams,Male,Los Angeles,CA,West,Standard,58,9.6
+CUST_0426,Valentina Roberts,Female,Baltimore,MD,Northeast,Gold,53,6.8
+CUST_0427,John Flores,Male,New York,NY,Northeast,Standard,62,6.3
+CUST_0428,Hamza Hill,Male,Phoenix,AZ,West,Standard,64,2.7
+CUST_0429,Yusuf Thompson,Male,Phoenix,AZ,West,Standard,42,2.5
+CUST_0430,Ling Wang,Female,Las Vegas,NV,West,Platinum,24,9.4
+CUST_0431,Ethan Campbell,Male,New York,NY,Northeast,Standard,49,3
+CUST_0432,Sophia Moreau,Female,San Diego,CA,West,Standard,25,7.8
+CUST_0433,Alejandro Carvalho,Male,New York,NY,Northeast,Gold,65,3.9
+CUST_0434,Joseph Nelson,Male,New York,NY,Northeast,Standard,63,1.4
+CUST_0435,Fatima Mitchell,Female,Denver,CO,West,Platinum,23,0.1
+CUST_0436,Yuki King,Female,Oklahoma City,OK,South,Standard,48,5.4
+CUST_0437,Andrew Flores,Male,Atlanta,GA,South,Gold,42,9.8
+CUST_0438,Naomi Lefebvre,Female,Chicago,IL,Midwest,Standard,25,3.7
+CUST_0439,Priya Roberts,Female,Seattle,WA,West,Standard,51,3.6
+CUST_0440,Mason Castillo,Male,Milwaukee,WI,Midwest,Gold,61,3.4
+CUST_0441,Daniela Roy,Female,San Antonio,TX,South,Standard,37,5.2
+CUST_0442,Keiko Patel,Female,San Diego,CA,West,Gold,34,4.4
+CUST_0443,Zoe Allen,Female,Quebec City,QC,Eastern Canada,Standard,59,8.8
+CUST_0444,Lucia Thomas,Female,Washington,DC,Northeast,Standard,51,5.1
+CUST_0445,Olivia Mitchell,Female,San Antonio,TX,South,Standard,28,5.1
+CUST_0446,Aisha Martinez,Female,San Jose,CA,West,Platinum,56,1.4
+CUST_0447,Naomi Nguyen,Female,Jacksonville,FL,South,Standard,29,9.8
+CUST_0448,Mila Jackson,Female,Seattle,WA,West,Standard,39,2.5
+CUST_0449,Priya Scott,Female,Chicago,IL,Midwest,Standard,25,0.7
+CUST_0450,Lucia Khan,Female,Austin,TX,South,Standard,67,6.6
+CUST_0451,Maryam Moreau,Female,Houston,TX,South,Standard,22,6
+CUST_0452,Liam Rivera,Male,San Diego,CA,West,Platinum,61,4.2
+CUST_0453,Lily Williams,Female,Boston,MA,Northeast,Standard,30,4.2
+CUST_0454,Ananya Martel,Female,Jacksonville,FL,South,Platinum,62,7.9
+CUST_0455,Hamza Davis,Male,Miami,FL,South,Standard,36,2
+CUST_0456,Lily Chen,Female,Los Angeles,CA,West,Gold,51,8.2
+CUST_0457,Kenji Garcia,Male,Chicago,IL,Midwest,Platinum,23,6.5
+CUST_0458,Victor Hill,Male,Phoenix,AZ,West,Standard,23,4.2
+CUST_0459,Alice Dubois,Female,Philadelphia,PA,Northeast,Platinum,36,4.6
+CUST_0460,Liam Ramirez,Male,Atlanta,GA,South,Standard,60,2.6
+CUST_0461,Lucia Zhang,Female,Denver,CO,West,Platinum,38,7.5
+CUST_0462,Emily Torres,Female,Detroit,MI,Midwest,Gold,24,5.1
+CUST_0463,Camila Rodriguez,Female,Chicago,IL,Midwest,Standard,51,3.2
+CUST_0464,Charles Park,Male,Montreal,QC,Eastern Canada,Standard,41,6
+CUST_0465,Owen Khan,Male,Raleigh,NC,South,Standard,25,10
+CUST_0466,Elena Johnson,Female,Milwaukee,WI,Midwest,Standard,54,4.4
+CUST_0467,Elizabeth Lefebvre,Female,Charlotte,NC,South,Standard,41,9.2
+CUST_0468,Mei Patel,Female,Philadelphia,PA,Northeast,Standard,20,3.5
+CUST_0469,Nathan Dubois,Male,San Jose,CA,West,Standard,39,0.5
+CUST_0470,Abigail Flores,Female,San Jose,CA,West,Gold,41,2
+CUST_0471,Luna Scott,Female,Los Angeles,CA,West,Standard,67,4.2
+CUST_0472,Lucia Torres,Female,Boston,MA,Northeast,Standard,30,2.2
+CUST_0473,Rohan Moore,Male,Ottawa,ON,Eastern Canada,Gold,32,0
+CUST_0474,Ella Moreau,Female,San Jose,CA,West,Standard,61,9.2
+CUST_0475,Elena Perez,Female,Portland,OR,West,Standard,22,8.4
+CUST_0476,Jia Hernandez,Female,Mississauga,ON,Eastern Canada,Standard,28,7.4
+CUST_0477,Kenji Patel,Male,Toronto,ON,Eastern Canada,Platinum,31,1.7
+CUST_0478,Sarah Singh,Female,Saskatoon,SK,Western Canada,Gold,42,1.2
+CUST_0479,Hannah Brown,Female,Dallas,TX,South,Standard,33,0.7
+CUST_0480,Noah Miller,Male,San Antonio,TX,South,Gold,52,7.2
+CUST_0481,Nora Lefebvre,Female,Nashville,TN,South,Standard,37,9.3
+CUST_0482,Maryam Zhang,Female,Boston,MA,Northeast,Gold,68,4.3
+CUST_0483,Kenji Silva,Male,Miami,FL,South,Gold,60,1.2
+CUST_0484,Amir Smith,Male,Portland,OR,West,Gold,28,5.1
+CUST_0485,Alice Kim,Female,San Francisco,CA,West,Standard,42,3.5
+CUST_0486,Amir Williams,Male,Milwaukee,WI,Midwest,Standard,29,3.7
+CUST_0487,Amelia Nguyen,Female,New York,NY,Northeast,Standard,38,6.2
+CUST_0488,Anthony Smith,Male,Houston,TX,South,Platinum,66,7.2
+CUST_0489,Ava Nguyen,Female,Chicago,IL,Midwest,Standard,24,1.1
+CUST_0490,Hamza Lewis,Male,New York,NY,Northeast,Gold,66,0.4
+CUST_0491,Sophie Jones,Female,Denver,CO,West,Platinum,42,9.9
+CUST_0492,Luna Lee,Female,Chicago,IL,Midwest,Standard,49,2.3
+CUST_0493,Mariana Gupta,Female,Charlotte,NC,South,Gold,44,0.5
+CUST_0494,Scarlett Castillo,Female,New York,NY,Northeast,Gold,47,1.9
+CUST_0495,William Campbell,Male,Dallas,TX,South,Platinum,53,0.4
+CUST_0496,Daniela Wright,Female,Atlanta,GA,South,Platinum,64,3.9
+CUST_0497,Ethan Silva,Male,Detroit,MI,Midwest,Gold,67,8
+CUST_0498,Hao Carvalho,Male,Phoenix,AZ,West,Standard,66,3.4
+CUST_0499,Wei Smith,Male,San Antonio,TX,South,Gold,44,4.4
+CUST_0500,Sebastian Silva,Male,New York,NY,Northeast,Standard,29,6.8
+CUST_0501,Mei Lopez,Female,Detroit,MI,Midwest,Gold,33,5.1
+CUST_0502,Isabella Dubois,Female,San Diego,CA,West,Platinum,61,8.6
+CUST_0503,Wei Clark,Male,Atlanta,GA,South,Standard,65,8.7
+CUST_0504,Andrew Park,Male,London,ON,Eastern Canada,Gold,49,0.1
+CUST_0505,Mariana Thompson,Female,Columbus,OH,Midwest,Standard,60,7.8
+CUST_0506,Anthony Harris,Male,Vancouver,BC,Western Canada,Standard,44,4.6
+CUST_0507,Adam Lee,Male,Atlanta,GA,South,Standard,33,9.9
+CUST_0508,Matthew Lefebvre,Male,Las Vegas,NV,West,Gold,54,4.8
+CUST_0509,Ava Moreau,Female,Toronto,ON,Eastern Canada,Platinum,67,9.9
+CUST_0510,Ella Wang,Female,Atlanta,GA,South,Platinum,53,7.5
+CUST_0511,Robert Harris,Male,Denver,CO,West,Standard,29,2.5
+CUST_0512,Yusuf Kim,Male,Dallas,TX,South,Platinum,54,5.4
+CUST_0513,Fatima Rivera,Female,New York,NY,Northeast,Gold,30,9.9
+CUST_0514,Ananya Young,Female,Chicago,IL,Midwest,Standard,30,8.6
+CUST_0515,Christopher Kim,Male,Miami,FL,South,Standard,40,1
+CUST_0516,Isabella Jones,Female,Baltimore,MD,Northeast,Standard,40,7.1
+CUST_0517,David Scott,Male,Los Angeles,CA,West,Platinum,41,3.5
+CUST_0518,Thomas Carter,Male,Los Angeles,CA,West,Gold,64,0.1
+CUST_0519,Lucia Patel,Female,Toronto,ON,Eastern Canada,Gold,26,4
+CUST_0520,Kenji Hill,Male,Phoenix,AZ,West,Standard,36,2.3
+CUST_0521,Aria Lefebvre,Female,New York,NY,Northeast,Gold,21,8.2
+CUST_0522,Adrian Rodriguez,Male,Houston,TX,South,Standard,31,3.4
+CUST_0523,Javier Garcia,Male,Dallas,TX,South,Standard,61,8.3
+CUST_0524,Zara Wright,Female,San Jose,CA,West,Gold,37,0
+CUST_0525,William Hill,Male,Boston,MA,Northeast,Standard,30,3.1
+CUST_0526,Mila Perez,Female,Portland,OR,West,Gold,35,2.4
+CUST_0527,Amir Green,Male,Chicago,IL,Midwest,Standard,68,2.3
+CUST_0528,Rohan Jones,Male,Baltimore,MD,Northeast,Gold,70,0.7
+CUST_0529,Carlos Adams,Male,Denver,CO,West,Standard,37,1.9
+CUST_0530,Luna Castillo,Female,San Francisco,CA,West,Standard,54,5.6
+CUST_0531,Liam Robinson,Male,Boston,MA,Northeast,Standard,45,2.9
+CUST_0532,Abigail Singh,Female,New York,NY,Northeast,Standard,35,4.2
+CUST_0533,Julian Lewis,Male,San Antonio,TX,South,Platinum,25,3.8
+CUST_0534,Hana Torres,Female,San Francisco,CA,West,Standard,63,8.8
+CUST_0535,Lucas Gonzalez,Male,Chicago,IL,Midwest,Gold,62,9.1
+CUST_0536,Zoe Young,Female,Los Angeles,CA,West,Platinum,66,4.9
+CUST_0537,Grace Rivera,Female,San Jose,CA,West,Standard,66,3.3
+CUST_0538,Layla Thompson,Female,Washington,DC,Northeast,Standard,67,1.1
+CUST_0539,Abigail Hall,Female,Chicago,IL,Midwest,Gold,61,9.5
+CUST_0540,Nadia Taylor,Female,Raleigh,NC,South,Platinum,31,0.6
+CUST_0541,Lucia Soto,Female,Jacksonville,FL,South,Platinum,32,3
+CUST_0542,Gabriel Garcia,Male,Detroit,MI,Midwest,Standard,23,3
+CUST_0543,Christopher Moore,Male,Phoenix,AZ,West,Gold,58,3.2
+CUST_0544,Lucia Perez,Female,Phoenix,AZ,West,Standard,21,1.6
+CUST_0545,Daniela Allen,Female,Chicago,IL,Midwest,Platinum,45,7.8
+CUST_0546,Sofia Robinson,Female,Victoria,BC,Western Canada,Platinum,46,1.2
+CUST_0547,Lucas Young,Male,Atlanta,GA,South,Standard,46,6.3
+CUST_0548,John Adams,Male,Milwaukee,WI,Midwest,Standard,34,1.2
+CUST_0549,Adrian Martinez,Male,Indianapolis,IN,Midwest,Standard,27,0.7
+CUST_0550,Lucia Scott,Female,Detroit,MI,Midwest,Standard,26,9.1
+CUST_0551,Adam King,Male,Detroit,MI,Midwest,Gold,66,1.9
+CUST_0552,Santiago Ramirez,Male,Baltimore,MD,Northeast,Standard,65,8.2
+CUST_0553,Julian Hernandez,Male,Houston,TX,South,Standard,59,5.4
+CUST_0554,Michael Hill,Male,Chicago,IL,Midwest,Standard,31,0.8
+CUST_0555,Priya Campbell,Female,Dallas,TX,South,Platinum,32,9.6
+CUST_0556,Yusuf Jackson,Male,Halifax,NS,Eastern Canada,Gold,62,2.5
+CUST_0557,Ling Anderson,Female,New York,NY,Northeast,Standard,36,8.6
+CUST_0558,William Ramirez,Male,San Antonio,TX,South,Standard,36,1.7
+CUST_0559,Hugo White,Male,Philadelphia,PA,Northeast,Platinum,55,8.5
+CUST_0560,Javier Iqbal,Male,Charlotte,NC,South,Gold,40,0.1
+CUST_0561,Arjun Rodriguez,Male,San Antonio,TX,South,Standard,27,5.1
+CUST_0562,Hamza Campbell,Male,Toronto,ON,Eastern Canada,Standard,24,7.7
+CUST_0563,Ali Allen,Male,Austin,TX,South,Standard,45,9.3
+CUST_0564,Yuki Roy,Female,San Diego,CA,West,Standard,35,9.1
+CUST_0565,Yusuf Jackson,Male,Austin,TX,South,Standard,55,8.2
+CUST_0566,Mila Castillo,Female,San Antonio,TX,South,Platinum,47,8.9
+CUST_0567,Amelia Flores,Female,Miami,FL,South,Standard,48,2
+CUST_0568,Scarlett Campbell,Female,Washington,DC,Northeast,Gold,66,2.8
+CUST_0569,Logan Martel,Male,San Jose,CA,West,Standard,31,2.9
+CUST_0570,Caleb Lewis,Male,Toronto,ON,Eastern Canada,Gold,56,3.8
+CUST_0571,Gabriel Roberts,Male,Phoenix,AZ,West,Gold,49,3.9
+CUST_0572,Owen Gonzalez,Male,Houston,TX,South,Standard,42,5.4
+CUST_0573,Elizabeth Smith,Female,San Francisco,CA,West,Standard,35,1.6
+CUST_0574,Ali King,Male,Miami,FL,South,Gold,33,6.9
+CUST_0575,Xavier Mitchell,Male,Chicago,IL,Midwest,Standard,29,1.7
+CUST_0576,Minji Mitchell,Female,Calgary,AB,Western Canada,Standard,26,3.1
+CUST_0577,Stella Carter,Female,Austin,TX,South,Standard,64,5
+CUST_0578,Amira Gagnon,Female,New York,NY,Northeast,Platinum,56,8
+CUST_0579,Joseph Lefebvre,Male,Boston,MA,Northeast,Standard,48,7.4
+CUST_0580,Julian Lewis,Male,San Antonio,TX,South,Gold,22,6.5
+CUST_0581,Mila Hill,Female,Jacksonville,FL,South,Standard,34,1.6
+CUST_0582,Mateo Sanchez,Male,Phoenix,AZ,West,Gold,55,5.5
+CUST_0583,Andrew Taylor,Male,Los Angeles,CA,West,Standard,66,0.9
+CUST_0584,Mohamed Gupta,Male,Chicago,IL,Midwest,Platinum,65,3.8
+CUST_0585,Christopher Gonzalez,Male,Dallas,TX,South,Standard,38,4.1
+CUST_0586,Nicholas Carvalho,Male,New York,NY,Northeast,Gold,32,0.4
+CUST_0587,Nicholas Sanchez,Male,Houston,TX,South,Gold,61,2.7
+CUST_0588,Evelyn Carter,Female,Chicago,IL,Midwest,Standard,40,9.6
+CUST_0589,Aisha Castillo,Female,Seattle,WA,West,Standard,56,9.5
+CUST_0590,Hana Miller,Female,Chicago,IL,Midwest,Standard,46,3.5
+CUST_0591,Logan Patel,Male,Atlanta,GA,South,Standard,48,0.4
+CUST_0592,Thomas Carter,Male,Washington,DC,Northeast,Platinum,39,1.8
+CUST_0593,William Li,Male,Chicago,IL,Midwest,Standard,44,3.9
+CUST_0594,Emma Martel,Female,Los Angeles,CA,West,Standard,25,9.5
+CUST_0595,Fatima Roy,Female,San Francisco,CA,West,Gold,55,1.4
+CUST_0596,Rohan Taylor,Male,Raleigh,NC,South,Standard,21,7.6
+CUST_0597,Elena Nelson,Female,Jacksonville,FL,South,Standard,41,1.1
+CUST_0598,Mohamed Harris,Male,Chicago,IL,Midwest,Standard,51,9.8
+CUST_0599,Aurora Williams,Female,San Antonio,TX,South,Platinum,35,3.8
+CUST_0600,Nadia Lewis,Female,Austin,TX,South,Platinum,37,7.8
+CUST_0601,Aurora Young,Female,Austin,TX,South,Platinum,24,3.4
+CUST_0602,Mei Sanchez,Female,Portland,OR,West,Standard,55,6.3
+CUST_0603,Elena Thomas,Female,Indianapolis,IN,Midwest,Gold,49,1.9
+CUST_0604,Yusuf Harris,Male,San Francisco,CA,West,Standard,64,1.5
+CUST_0605,Gabriela Zhang,Female,San Antonio,TX,South,Standard,38,9.4
+CUST_0606,John Ramirez,Male,Montreal,QC,Eastern Canada,Standard,42,9.2
+CUST_0607,Aria Park,Female,Los Angeles,CA,West,Standard,53,8.9
+CUST_0608,Yuki Martel,Female,Las Vegas,NV,West,Standard,32,6.3
+CUST_0609,Sarah Green,Female,New York,NY,Northeast,Standard,62,8.1
+CUST_0610,Joseph Chen,Male,Houston,TX,South,Standard,48,0.7
+CUST_0611,Aurora Gupta,Female,San Antonio,TX,South,Standard,55,3.3
+CUST_0612,Charlotte Lewis,Female,Jacksonville,FL,South,Gold,41,3.1
+CUST_0613,Olivia Jackson,Female,Nashville,TN,South,Standard,66,6.4
+CUST_0614,Noah Soto,Male,San Jose,CA,West,Gold,55,3.6
+CUST_0615,Jack Green,Male,Washington,DC,Northeast,Standard,28,1.5
+CUST_0616,Mohamed Hall,Male,San Francisco,CA,West,Gold,58,6
+CUST_0617,Anthony Anderson,Male,Toronto,ON,Eastern Canada,Standard,70,8.1
+CUST_0618,Emily Williams,Female,Detroit,MI,Midwest,Standard,38,3.8
+CUST_0619,Alexander Hernandez,Male,Vancouver,BC,Western Canada,Standard,57,1.3
+CUST_0620,Sophie Li,Female,Seattle,WA,West,Gold,25,2
+CUST_0621,Hao Rivera,Male,Winnipeg,MB,Western Canada,Gold,66,2.4
+CUST_0622,Joseph Robinson,Male,Boston,MA,Northeast,Standard,34,3
+CUST_0623,Amelia Singh,Female,Boston,MA,Northeast,Standard,39,6.4
+CUST_0624,Ava Moore,Female,New York,NY,Northeast,Platinum,28,6
+CUST_0625,Lucas Chen,Male,Philadelphia,PA,Northeast,Gold,51,7
+CUST_0626,Harper Mitchell,Female,Dallas,TX,South,Standard,23,3.6
+CUST_0627,Emily Soto,Female,Jacksonville,FL,South,Standard,69,8.2
+CUST_0628,Andrew Davis,Male,Montreal,QC,Eastern Canada,Standard,37,2
+CUST_0629,Elena Perez,Female,Toronto,ON,Eastern Canada,Gold,24,4.7
+CUST_0630,Emma Garcia,Female,New York,NY,Northeast,Standard,39,8
+CUST_0631,Sarah Singh,Female,Saskatoon,SK,Western Canada,Platinum,42,1.8
+CUST_0632,Gabriel Scott,Male,Charlotte,NC,South,Standard,30,1.1
+CUST_0633,Harper Singh,Female,Los Angeles,CA,West,Standard,56,8.8
+CUST_0634,Robert Carter,Male,Los Angeles,CA,West,Standard,41,3.4
+CUST_0635,David Hall,Male,Indianapolis,IN,Midwest,Platinum,23,6.8
+CUST_0636,Benjamin Soto,Male,Houston,TX,South,Gold,48,0.3
+CUST_0637,Lucas Hall,Male,Houston,TX,South,Standard,63,6.9
+CUST_0638,Aurora Martin,Female,Ottawa,ON,Eastern Canada,Gold,53,3.2
+CUST_0639,Stella Gagnon,Female,Detroit,MI,Midwest,Standard,32,0.6
+CUST_0640,Julia Castillo,Female,Quebec City,QC,Eastern Canada,Standard,61,6.1
+CUST_0641,Liam Williams,Male,Atlanta,GA,South,Standard,28,2.4
+CUST_0642,Carlos Zhang,Male,Charlotte,NC,South,Standard,61,3.9
+CUST_0643,Logan Gagnon,Male,Los Angeles,CA,West,Standard,50,0.8
+CUST_0644,Olivia Flores,Female,Ottawa,ON,Eastern Canada,Platinum,26,1.5
+CUST_0645,Charles Khan,Male,New York,NY,Northeast,Standard,23,3
+CUST_0646,Jia Kim,Female,Miami,FL,South,Platinum,38,0.9
+CUST_0647,Elizabeth Roy,Female,Hamilton,ON,Eastern Canada,Standard,61,9.1
+CUST_0648,Hugo Brown,Male,New York,NY,Northeast,Gold,49,0.1
+CUST_0649,Mila Dubois,Female,New York,NY,Northeast,Standard,50,4.8
+CUST_0650,Santiago Robinson,Male,Seattle,WA,West,Standard,54,1.2
+CUST_0651,Priya Johnson,Female,San Antonio,TX,South,Standard,40,3.1
+CUST_0652,Minji Roy,Female,Houston,TX,South,Standard,50,9.3
+CUST_0653,Victor Carter,Male,San Diego,CA,West,Gold,38,1.6
+CUST_0654,Xavier Rodriguez,Male,Detroit,MI,Midwest,Standard,50,9.7
+CUST_0655,Julia Walker,Female,London,ON,Eastern Canada,Gold,51,2.1
+CUST_0656,Chloe Lefebvre,Female,Houston,TX,South,Standard,21,7.4
+CUST_0657,Samuel Mitchell,Male,Phoenix,AZ,West,Standard,29,5.5
+CUST_0658,Sarah Harris,Female,Toronto,ON,Eastern Canada,Standard,21,8.8
+CUST_0659,Ella Scott,Female,Charlotte,NC,South,Platinum,21,5.5
+CUST_0660,Amira Davis,Female,Ottawa,ON,Eastern Canada,Gold,43,5.3
+CUST_0661,Alexander Patel,Male,Chicago,IL,Midwest,Standard,36,2
+CUST_0662,Aisha Hall,Female,Chicago,IL,Midwest,Standard,51,1.7
+CUST_0663,Jia Roy,Female,Ottawa,ON,Eastern Canada,Standard,35,9.2
+CUST_0664,Leo Hill,Male,Nashville,TN,South,Platinum,35,3.3
+CUST_0665,Mateo Patel,Male,Chicago,IL,Midwest,Gold,65,3.7
+CUST_0666,Jia Gagnon,Female,Miami,FL,South,Standard,58,7.6
+CUST_0667,Omar Baker,Male,Boston,MA,Northeast,Standard,50,3.4
+CUST_0668,Emma Lewis,Female,Austin,TX,South,Standard,62,9.5
+CUST_0669,Adam Khan,Male,Nashville,TN,South,Platinum,43,7.4
+CUST_0670,Samuel Gupta,Male,Boston,MA,Northeast,Standard,20,6
+CUST_0671,Leila Rodriguez,Female,Los Angeles,CA,West,Gold,30,8.8
+CUST_0672,Ryan Garcia,Male,New York,NY,Northeast,Standard,40,0.5
+CUST_0673,Stella Lewis,Female,Denver,CO,West,Gold,23,2.6
+CUST_0674,William Patel,Male,Los Angeles,CA,West,Gold,26,4.7
+CUST_0675,Naomi Taylor,Female,Jacksonville,FL,South,Gold,45,2.3
+CUST_0676,William Thomas,Male,Baltimore,MD,Northeast,Gold,66,7.4
+CUST_0677,Leo Williams,Male,Houston,TX,South,Platinum,69,9.2
+CUST_0678,Amelia Lee,Female,Detroit,MI,Midwest,Standard,31,4.2
+CUST_0679,Christopher Gagnon,Male,Edmonton,AB,Western Canada,Standard,50,3.4
+CUST_0680,Sofia Scott,Female,Seattle,WA,West,Standard,36,9.6
+CUST_0681,Robert Roy,Male,Indianapolis,IN,Midwest,Platinum,52,4.4
+CUST_0682,Hana Adams,Female,Miami,FL,South,Standard,30,4.9
+CUST_0683,Samuel Adams,Male,Houston,TX,South,Gold,47,3.5
+CUST_0684,Layla Lefebvre,Female,Columbus,OH,Midwest,Gold,51,9.1
+CUST_0685,Yusuf Gonzalez,Male,Atlanta,GA,South,Standard,20,5.7
+CUST_0686,James Hernandez,Male,Philadelphia,PA,Northeast,Standard,66,7.6
+CUST_0687,Christopher Zhang,Male,Dallas,TX,South,Standard,47,8.1
+CUST_0688,Leo Thomas,Male,Jacksonville,FL,South,Standard,61,3.4
+CUST_0689,Alice Davis,Female,Philadelphia,PA,Northeast,Standard,26,4.3
+CUST_0690,Hao Khan,Male,Charlotte,NC,South,Standard,21,8.5
+CUST_0691,Ella Singh,Female,San Diego,CA,West,Platinum,61,3.6
+CUST_0692,Noel Flores,Male,Nashville,TN,South,Platinum,43,7.9
+CUST_0693,Adam Khan,Male,San Jose,CA,West,Standard,23,9.4
+CUST_0694,Daniela Johnson,Female,Seattle,WA,West,Standard,63,6.2
+CUST_0695,Elizabeth Martinez,Female,Portland,OR,West,Standard,38,7.4
+CUST_0696,Alexander Baker,Male,Los Angeles,CA,West,Gold,45,8.1
+CUST_0697,Wei Hernandez,Male,New York,NY,Northeast,Gold,30,8.5
+CUST_0698,Aaron Johnson,Male,Houston,TX,South,Standard,59,4
+CUST_0699,Scarlett Roberts,Female,Charlotte,NC,South,Standard,69,0.5
+CUST_0700,Nadia Lopez,Female,Milwaukee,WI,Midwest,Gold,62,4
+CUST_0701,Amir Thompson,Male,Dallas,TX,South,Gold,30,6.7
+CUST_0702,Hannah Moore,Female,New York,NY,Northeast,Standard,64,4.5
+CUST_0703,Stella Roy,Female,Houston,TX,South,Gold,22,7.5
+CUST_0704,Ella Roy,Female,Austin,TX,South,Standard,31,3.6
+CUST_0705,Amira Nguyen,Female,Indianapolis,IN,Midwest,Standard,22,6.3
+CUST_0706,Kenji Castillo,Male,Atlanta,GA,South,Gold,61,1.9
+CUST_0707,Jack Nguyen,Male,Austin,TX,South,Gold,46,7.5
+CUST_0708,Joseph Castillo,Male,Columbus,OH,Midwest,Standard,68,5.5
+CUST_0709,Gabriel Lefebvre,Male,Atlanta,GA,South,Platinum,21,2
+CUST_0710,Evelyn Smith,Female,Montreal,QC,Eastern Canada,Standard,68,2.9
+CUST_0711,Luna Hall,Female,San Antonio,TX,South,Gold,35,7.5
+CUST_0712,Victor Ramirez,Male,San Francisco,CA,West,Standard,21,4.8
+CUST_0713,John Lee,Male,San Antonio,TX,South,Platinum,49,2.2
+CUST_0714,Arjun Gonzalez,Male,San Francisco,CA,West,Platinum,39,9.7
+CUST_0715,Victoria Clark,Female,Washington,DC,Northeast,Standard,57,7.2
+CUST_0716,Samuel Miller,Male,Detroit,MI,Midwest,Platinum,47,9.6
+CUST_0717,Gabriela Perez,Female,Los Angeles,CA,West,Gold,44,4.3
+CUST_0718,Mohamed Li,Male,Baltimore,MD,Northeast,Gold,51,4.8
+CUST_0719,Aaron Brown,Male,Austin,TX,South,Standard,29,9
+CUST_0720,Camila Thompson,Female,Philadelphia,PA,Northeast,Gold,61,5.3
+CUST_0721,Ananya Desai,Female,Toronto,ON,Eastern Canada,Platinum,59,7.1
+CUST_0722,Samuel Allen,Male,Baltimore,MD,Northeast,Standard,52,2.5
+CUST_0723,Daniela Ramirez,Female,Seattle,WA,West,Platinum,32,4.5
+CUST_0724,Nora Davis,Female,Nashville,TN,South,Standard,60,1.2
+CUST_0725,Grace Smith,Female,San Antonio,TX,South,Standard,61,2.1
+CUST_0726,Sebastian Torres,Male,Los Angeles,CA,West,Standard,66,0
+CUST_0727,Aurora Moreau,Female,Philadelphia,PA,Northeast,Standard,56,0.4
+CUST_0728,Hugo Perez,Male,Las Vegas,NV,West,Gold,35,9.8
+CUST_0729,Elizabeth Desai,Female,Chicago,IL,Midwest,Standard,64,2.4
+CUST_0730,Khalid Lee,Male,Denver,CO,West,Platinum,41,6.6
+CUST_0731,Mateo Wright,Male,Dallas,TX,South,Standard,39,8.4
+CUST_0732,Lucas Jones,Male,Dallas,TX,South,Standard,69,5.5
+CUST_0733,Avery Dubois,Female,Toronto,ON,Eastern Canada,Standard,62,1.5
+CUST_0734,Victor Rivera,Male,San Francisco,CA,West,Standard,46,7.3
+CUST_0735,Amira Roberts,Female,Toronto,ON,Eastern Canada,Platinum,60,6
+CUST_0736,Stella Mitchell,Female,Dallas,TX,South,Gold,35,7.3
+CUST_0737,Mohamed Garcia,Male,Houston,TX,South,Gold,53,7.7
+CUST_0738,Naomi Park,Female,Austin,TX,South,Standard,51,9.8
+CUST_0739,David Khan,Male,Houston,TX,South,Standard,45,5.7
+CUST_0740,Leila Lewis,Female,Austin,TX,South,Standard,44,3.4
+CUST_0741,Ali Gupta,Male,Chicago,IL,Midwest,Standard,21,6.5
+CUST_0742,Abigail Moore,Female,Los Angeles,CA,West,Standard,31,0.7
+CUST_0743,Fatima Johnson,Female,Las Vegas,NV,West,Gold,59,9
+CUST_0744,Isabella Davis,Female,Montreal,QC,Eastern Canada,Standard,28,1.2
+CUST_0745,Yuki Zhang,Female,Portland,OR,West,Gold,31,3.3
+CUST_0746,William Nguyen,Male,Philadelphia,PA,Northeast,Standard,45,8.2
+CUST_0747,Nadia Mitchell,Female,Montreal,QC,Eastern Canada,Standard,28,6
+CUST_0748,Stella Clark,Female,Charlotte,NC,South,Gold,29,3.9
+CUST_0749,Yuki Martin,Female,Atlanta,GA,South,Standard,51,4.7
+CUST_0750,Logan Lopez,Male,Montreal,QC,Eastern Canada,Platinum,53,8.5
+CUST_0751,Penelope Nelson,Female,Charlotte,NC,South,Gold,67,3.4
+CUST_0752,Aria Lefebvre,Female,New York,NY,Northeast,Standard,39,8.7
+CUST_0753,Avery Walker,Female,Chicago,IL,Midwest,Platinum,58,0.9
+CUST_0754,Liam Lefebvre,Male,Phoenix,AZ,West,Standard,21,7.8
+CUST_0755,Hannah Castillo,Female,Toronto,ON,Eastern Canada,Standard,20,8.5
+CUST_0756,Carlos Wright,Male,Washington,DC,Northeast,Gold,70,1.8
+CUST_0757,Ella Anderson,Female,Denver,CO,West,Standard,55,4.3
+CUST_0758,Mohamed Thomas,Male,Philadelphia,PA,Northeast,Gold,43,1.7
+CUST_0759,Nora Gonzalez,Female,Raleigh,NC,South,Gold,46,7.1
+CUST_0760,Gabriela Wright,Female,San Francisco,CA,West,Platinum,21,5.4
+CUST_0761,Daniel Khan,Male,Atlanta,GA,South,Standard,50,6.4
+CUST_0762,Fatima Lee,Female,Dallas,TX,South,Standard,33,2
+CUST_0763,Hamza Zhang,Male,San Francisco,CA,West,Gold,21,2.1
+CUST_0764,Ava Robinson,Female,Atlanta,GA,South,Standard,48,0.4
+CUST_0765,Zara Mitchell,Female,San Antonio,TX,South,Standard,34,3.2
+CUST_0766,Nadia Wright,Female,Baltimore,MD,Northeast,Standard,31,5.6
+CUST_0767,Penelope Nguyen,Female,Seattle,WA,West,Standard,56,8.6
+CUST_0768,Camila Walker,Female,Edmonton,AB,Western Canada,Standard,47,6.7
+CUST_0769,Daniel White,Male,Chicago,IL,Midwest,Platinum,39,4.4
+CUST_0770,Alejandro Carter,Male,San Jose,CA,West,Platinum,58,9.5
+CUST_0771,Emily Young,Female,Milwaukee,WI,Midwest,Standard,43,7.2
+CUST_0772,Noor Kim,Female,Los Angeles,CA,West,Standard,40,9.3
+CUST_0773,Scarlett Patel,Female,Chicago,IL,Midwest,Standard,29,5.3
+CUST_0774,Harper Williams,Female,Nashville,TN,South,Platinum,65,2.6
+CUST_0775,Arjun Carvalho,Male,Philadelphia,PA,Northeast,Standard,33,0.5
+CUST_0776,Naomi Martinez,Female,New York,NY,Northeast,Gold,56,7.3
+CUST_0777,Noah Harris,Male,Seattle,WA,West,Standard,37,1.2
+CUST_0778,Sophia Silva,Female,Atlanta,GA,South,Gold,43,3
+CUST_0779,Hamza Lefebvre,Male,San Francisco,CA,West,Standard,33,5.3
+CUST_0780,Ethan Lewis,Male,Houston,TX,South,Gold,53,5.6
+CUST_0781,William Jackson,Male,Washington,DC,Northeast,Standard,31,6
+CUST_0782,Charles Nelson,Male,Austin,TX,South,Gold,41,1.7
+CUST_0783,Elizabeth Soto,Female,San Antonio,TX,South,Standard,25,3.8
+CUST_0784,Joseph Lefebvre,Male,Portland,OR,West,Gold,55,6.2
+CUST_0785,Nicholas Nelson,Male,Washington,DC,Northeast,Platinum,64,9.7
+CUST_0786,David Harris,Male,Phoenix,AZ,West,Standard,55,7.3
+CUST_0787,Rohan Martin,Male,Mississauga,ON,Eastern Canada,Platinum,41,9.2
+CUST_0788,David Mitchell,Male,Las Vegas,NV,West,Standard,33,7.6
+CUST_0789,Sebastian White,Male,New York,NY,Northeast,Standard,35,5.9
+CUST_0790,Lucia Hernandez,Female,New York,NY,Northeast,Standard,55,1.9
+CUST_0791,Sophie Kim,Female,Chicago,IL,Midwest,Standard,44,6.7
+CUST_0792,Ella Ramirez,Female,San Antonio,TX,South,Gold,51,6.2
+CUST_0793,Isaac Carvalho,Male,Edmonton,AB,Western Canada,Gold,52,6
+CUST_0794,Aiden Moreau,Male,Ottawa,ON,Eastern Canada,Standard,64,4.9
+CUST_0795,Aria Khan,Female,Toronto,ON,Eastern Canada,Standard,55,5.3
+CUST_0796,Penelope Jones,Female,Boston,MA,Northeast,Gold,39,3.3
+CUST_0797,Alejandro Chen,Male,Chicago,IL,Midwest,Platinum,37,5.2
+CUST_0798,Daniel Lee,Male,Columbus,OH,Midwest,Standard,57,2
+CUST_0799,Mason Lopez,Male,Baltimore,MD,Northeast,Platinum,22,8.1
+CUST_0800,Jack Roberts,Male,Los Angeles,CA,West,Standard,42,1.9
+CUST_0801,Hamza Brown,Male,Los Angeles,CA,West,Standard,51,0.8
+CUST_0802,Amira Adams,Female,Montreal,QC,Eastern Canada,Gold,64,4.4
+CUST_0803,Evelyn Nguyen,Female,Atlanta,GA,South,Standard,35,6.6
+CUST_0804,Mei Harris,Female,Las Vegas,NV,West,Standard,24,4.4
+CUST_0805,Zoe Wilson,Female,Philadelphia,PA,Northeast,Standard,23,2.8
+CUST_0806,Lily Young,Female,Milwaukee,WI,Midwest,Gold,40,5.6
+CUST_0807,Lily Hernandez,Female,Chicago,IL,Midwest,Gold,59,3.5
+CUST_0808,Noor Lefebvre,Female,Washington,DC,Northeast,Standard,70,9.3
+CUST_0809,Javier Moore,Male,Oklahoma City,OK,South,Standard,33,9.2
+CUST_0810,Liam Clark,Male,Detroit,MI,Midwest,Standard,58,5
+CUST_0811,Jack Kim,Male,Miami,FL,South,Standard,50,3.3
+CUST_0812,Nora Zhang,Female,Seattle,WA,West,Standard,33,7.4
+CUST_0813,Zara Lee,Female,Dallas,TX,South,Gold,25,0.4
+CUST_0814,Anthony Baker,Male,Washington,DC,Northeast,Standard,31,4.7
+CUST_0815,Ella Jones,Female,San Jose,CA,West,Standard,35,3.4
+CUST_0816,Alejandro Green,Male,Raleigh,NC,South,Standard,36,9.2
+CUST_0817,Mei Khan,Female,Montreal,QC,Eastern Canada,Standard,64,0.1
+CUST_0818,Michael Zhang,Male,Austin,TX,South,Platinum,42,5.5
+CUST_0819,Victor Perez,Male,San Jose,CA,West,Standard,33,7.4
+CUST_0820,Rohan Martel,Male,New York,NY,Northeast,Standard,26,4.9
+CUST_0821,Alejandro Gagnon,Male,Atlanta,GA,South,Standard,65,0.9
+CUST_0822,Luis Gupta,Male,Washington,DC,Northeast,Standard,51,9.7
+CUST_0823,Gabriel Brown,Male,Portland,OR,West,Standard,34,5.2
+CUST_0824,Scarlett Martel,Female,Philadelphia,PA,Northeast,Standard,63,6.1
+CUST_0825,Isabella Anderson,Female,Los Angeles,CA,West,Standard,36,2.4
+CUST_0826,Leo Perez,Male,San Francisco,CA,West,Standard,60,4.8
+CUST_0827,Aisha Campbell,Female,Los Angeles,CA,West,Standard,66,4.3
+CUST_0828,Ella Rivera,Female,Los Angeles,CA,West,Standard,63,0.7
+CUST_0829,Isaac Wilson,Male,San Antonio,TX,South,Platinum,53,1.1
+CUST_0830,Khalid Roberts,Male,New York,NY,Northeast,Standard,24,8.4
+CUST_0831,Nathan Martin,Male,Dallas,TX,South,Standard,64,2.4
+CUST_0832,Amir Roberts,Male,Boston,MA,Northeast,Standard,46,1.9
+CUST_0833,Camila Allen,Female,Austin,TX,South,Standard,42,5
+CUST_0834,Sebastian Khan,Male,Washington,DC,Northeast,Gold,59,7.7
+CUST_0835,Elena Nelson,Female,Chicago,IL,Midwest,Standard,33,0.6
+CUST_0836,Mei Lopez,Female,San Antonio,TX,South,Gold,34,5.8
+CUST_0837,David Flores,Male,Houston,TX,South,Standard,62,1.2
+CUST_0838,Avery Martin,Female,Toronto,ON,Eastern Canada,Standard,52,0.4
+CUST_0839,John Nguyen,Male,Charlotte,NC,South,Gold,50,0.5
+CUST_0840,Elena Williams,Female,Dallas,TX,South,Standard,54,8.3
+CUST_0841,Ethan Ramirez,Male,Los Angeles,CA,West,Standard,36,1.2
+CUST_0842,Fatima Park,Female,Oklahoma City,OK,South,Standard,47,0.5
+CUST_0843,Jia Gonzalez,Female,Seattle,WA,West,Gold,38,4.4
+CUST_0844,Adrian Soto,Male,New York,NY,Northeast,Standard,65,8.4
+CUST_0845,Fatima Torres,Female,Dallas,TX,South,Platinum,42,2.6
+CUST_0846,Elizabeth Carter,Female,Nashville,TN,South,Standard,51,4.2
+CUST_0847,Avery Soto,Female,Charlotte,NC,South,Platinum,59,0.4
+CUST_0848,Sophie Scott,Female,San Diego,CA,West,Standard,32,4.5
+CUST_0849,Elizabeth Zhang,Female,Philadelphia,PA,Northeast,Gold,39,5.8
+CUST_0850,Dylan Sanchez,Male,Austin,TX,South,Standard,54,5.7
+CUST_0851,Matthew Iqbal,Male,New York,NY,Northeast,Platinum,24,3.3
+CUST_0852,Emma Flores,Female,Indianapolis,IN,Midwest,Standard,28,3.2
+CUST_0853,Isaac Nelson,Male,Charlotte,NC,South,Standard,48,1.1
+CUST_0854,Harper Perez,Female,Indianapolis,IN,Midwest,Standard,25,3.7
+CUST_0855,Harper Martin,Female,Atlanta,GA,South,Standard,44,1
+CUST_0856,Liam Davis,Male,Austin,TX,South,Standard,50,7.7
+CUST_0857,Hamza Lewis,Male,Houston,TX,South,Platinum,41,9.7
+CUST_0858,Mariana Flores,Female,Nashville,TN,South,Platinum,21,9.7
+CUST_0859,Yusuf Robinson,Male,Baltimore,MD,Northeast,Standard,64,8.7
+CUST_0860,Hannah Kim,Female,Los Angeles,CA,West,Platinum,24,6
+CUST_0861,James Thomas,Male,Detroit,MI,Midwest,Standard,46,7
+CUST_0862,Luna Rivera,Female,Phoenix,AZ,West,Standard,44,2.9
+CUST_0863,Ali Roy,Male,Seattle,WA,West,Gold,27,6.3
+CUST_0864,Zoe Miller,Female,San Diego,CA,West,Gold,20,4.6
+CUST_0865,Matthew Hall,Male,San Diego,CA,West,Platinum,39,4.8
+CUST_0866,Priya Khan,Female,Chicago,IL,Midwest,Standard,63,7.6
+CUST_0867,Alexander Park,Male,Miami,FL,South,Gold,42,2.8
+CUST_0868,Harper Mitchell,Female,San Antonio,TX,South,Standard,51,3.2
+CUST_0869,Nora Clark,Female,Oklahoma City,OK,South,Standard,30,9.2
+CUST_0870,David Li,Male,Miami,FL,South,Standard,58,0.6
+CUST_0871,Charles Wright,Male,Seattle,WA,West,Platinum,66,4.9
+CUST_0872,Mateo Chen,Male,New York,NY,Northeast,Gold,43,9.1
+CUST_0873,Avery Torres,Female,Quebec City,QC,Eastern Canada,Gold,30,6.1
+CUST_0874,Olivia Singh,Female,Columbus,OH,Midwest,Standard,48,5.5
+CUST_0875,Camila Davis,Female,San Francisco,CA,West,Standard,45,2.5
+CUST_0876,Gabriel Martin,Male,Hamilton,ON,Eastern Canada,Standard,35,3.4
+CUST_0877,Mateo Li,Male,Phoenix,AZ,West,Standard,54,8.5
+CUST_0878,Zara Lopez,Female,Los Angeles,CA,West,Standard,39,5.6
+CUST_0879,Lucas Carter,Male,Chicago,IL,Midwest,Gold,65,5.1
+CUST_0880,Camila Taylor,Female,Seattle,WA,West,Standard,22,1
+CUST_0881,Aiden Gagnon,Male,Los Angeles,CA,West,Standard,20,0.2
+CUST_0882,Mariana Adams,Female,Phoenix,AZ,West,Standard,66,9.6
+CUST_0883,Julian Lewis,Male,Phoenix,AZ,West,Standard,20,3.8
+CUST_0884,Diego Jackson,Male,San Francisco,CA,West,Standard,36,6
+CUST_0885,Luna Hernandez,Female,Washington,DC,Northeast,Platinum,21,0.8
+CUST_0886,Lily Roberts,Female,Philadelphia,PA,Northeast,Gold,48,6.8
+CUST_0887,Jia Gupta,Female,San Francisco,CA,West,Gold,39,9.3
+CUST_0888,Wei Patel,Male,Atlanta,GA,South,Standard,25,5.8
+CUST_0889,Noah King,Male,New York,NY,Northeast,Standard,27,1.3
+CUST_0890,Elizabeth Martin,Female,Denver,CO,West,Standard,48,5.8
+CUST_0891,Nadia Roberts,Female,Milwaukee,WI,Midwest,Platinum,67,7.7
+CUST_0892,Yusuf Martinez,Male,Washington,DC,Northeast,Gold,70,4.1
+CUST_0893,Benjamin Young,Male,San Francisco,CA,West,Standard,52,8.8
+CUST_0894,Hao Wang,Male,Austin,TX,South,Standard,22,6.5
+CUST_0895,Evelyn Anderson,Female,New York,NY,Northeast,Standard,54,9
+CUST_0896,Ryan Williams,Male,San Diego,CA,West,Gold,24,6.2
+CUST_0897,Robert Torres,Male,Los Angeles,CA,West,Platinum,46,1.3
+CUST_0898,Ali Flores,Male,Indianapolis,IN,Midwest,Standard,63,3.1
+CUST_0899,Anthony Iqbal,Male,San Jose,CA,West,Standard,31,2
+CUST_0900,Owen Flores,Male,Calgary,AB,Western Canada,Standard,39,9.1
+CUST_0901,Ananya Park,Female,Austin,TX,South,Standard,64,7.6
+CUST_0902,Sebastian Thompson,Male,Austin,TX,South,Standard,39,6.8
+CUST_0903,Sophie Hernandez,Female,Phoenix,AZ,West,Standard,28,3
+CUST_0904,Aiden Gagnon,Male,Los Angeles,CA,West,Gold,58,1.8
+CUST_0905,Nora Davis,Female,Charlotte,NC,South,Gold,23,7.6
+CUST_0906,Emma Park,Female,San Diego,CA,West,Standard,70,4.7
+CUST_0907,Hannah Dubois,Female,Chicago,IL,Midwest,Gold,38,2.3
+CUST_0908,Ella Martinez,Female,Baltimore,MD,Northeast,Standard,57,6.2
+CUST_0909,James Hill,Male,Philadelphia,PA,Northeast,Standard,46,0.4
+CUST_0910,Julian Ramirez,Male,New York,NY,Northeast,Standard,64,3.3
+CUST_0911,Evelyn Carter,Female,New York,NY,Northeast,Standard,62,4.7
+CUST_0912,Elena Scott,Female,Portland,OR,West,Standard,32,1.5
+CUST_0913,Riley Gonzalez,Female,Houston,TX,South,Standard,32,9.8
+CUST_0914,Olivia Scott,Female,San Francisco,CA,West,Standard,41,2.1
+CUST_0915,Mei Sanchez,Female,Detroit,MI,Midwest,Platinum,47,1.3
+CUST_0916,William Brown,Male,Atlanta,GA,South,Standard,66,2
+CUST_0917,Matthew Gagnon,Male,Toronto,ON,Eastern Canada,Standard,64,7.7
+CUST_0918,Isabella Nguyen,Female,Vancouver,BC,Western Canada,Standard,41,4.3
+CUST_0919,Mariana Perez,Female,Houston,TX,South,Gold,62,5.7
+CUST_0920,Michael Johnson,Male,Portland,OR,West,Standard,38,0.2
+CUST_0921,Nora Walker,Female,New York,NY,Northeast,Gold,27,0.3
+CUST_0922,Alejandro Hernandez,Male,Miami,FL,South,Standard,27,4.5
+CUST_0923,Noor Rivera,Female,Chicago,IL,Midwest,Standard,61,8.2
+CUST_0924,Victor Roy,Male,Atlanta,GA,South,Standard,45,8.9
+CUST_0925,David Carvalho,Male,Las Vegas,NV,West,Standard,67,0.9
+CUST_0926,Maryam Gagnon,Female,Los Angeles,CA,West,Standard,70,5.4
+CUST_0927,Khalid Martinez,Male,Miami,FL,South,Standard,45,9.1
+CUST_0928,Aria Flores,Female,Denver,CO,West,Standard,42,3.9
+CUST_0929,Julia White,Female,Los Angeles,CA,West,Standard,62,8.3
+CUST_0930,Emily Baker,Female,Baltimore,MD,Northeast,Standard,32,1.3
+CUST_0931,Joshua Dubois,Male,San Antonio,TX,South,Platinum,47,9.4
+CUST_0932,Victor Roy,Male,Charlotte,NC,South,Standard,28,7.5
+CUST_0933,Gabriel Taylor,Male,Houston,TX,South,Gold,39,9.4
+CUST_0934,Chloe Martel,Female,Miami,FL,South,Gold,38,6.8
+CUST_0935,Mei Singh,Female,Houston,TX,South,Standard,67,3.6
+CUST_0936,Ella Kim,Female,Denver,CO,West,Standard,58,9.4
+CUST_0937,Sarah Li,Female,Chicago,IL,Midwest,Standard,70,2.8
+CUST_0938,Camila Park,Female,Chicago,IL,Midwest,Gold,31,3.3
+CUST_0939,Maryam Rodriguez,Female,Milwaukee,WI,Midwest,Gold,34,7
+CUST_0940,Andrew Perez,Male,Philadelphia,PA,Northeast,Gold,50,7.7
+CUST_0941,Layla Gonzalez,Female,New York,NY,Northeast,Platinum,33,9.3
+CUST_0942,Charles Mitchell,Male,Quebec City,QC,Eastern Canada,Gold,30,2
+CUST_0943,Daniela Moore,Female,Columbus,OH,Midwest,Standard,45,8
+CUST_0944,Aisha Flores,Female,New York,NY,Northeast,Standard,61,7.4
+CUST_0945,Keiko Taylor,Female,San Francisco,CA,West,Gold,46,0.6
+CUST_0946,Julian Anderson,Male,Halifax,NS,Eastern Canada,Standard,30,3.9
+CUST_0947,Hamza Anderson,Male,Seattle,WA,West,Standard,57,2.8
+CUST_0948,Thomas Moreau,Male,Dallas,TX,South,Gold,53,3
+CUST_0949,Joshua Hill,Male,San Antonio,TX,South,Standard,62,9.8
+CUST_0950,Noah Gonzalez,Male,San Diego,CA,West,Platinum,38,6.4
+CUST_0951,Mia Young,Female,Chicago,IL,Midwest,Gold,25,7.2
+CUST_0952,Charlotte Rodriguez,Female,Los Angeles,CA,West,Standard,65,9.8
+CUST_0953,William Flores,Male,San Francisco,CA,West,Platinum,57,3.8
+CUST_0954,Amir Martin,Male,Houston,TX,South,Standard,68,8
+CUST_0955,Sebastian Moreau,Male,Houston,TX,South,Standard,61,4.3
+CUST_0956,Riley Baker,Female,San Jose,CA,West,Standard,47,8.7
+CUST_0957,Leah Nguyen,Female,Raleigh,NC,South,Standard,20,1.8
+CUST_0958,Amira Dubois,Female,Phoenix,AZ,West,Standard,54,9.5
+CUST_0959,Leo Gupta,Male,Columbus,OH,Midwest,Standard,59,2.2
+CUST_0960,Charlotte Mitchell,Female,New York,NY,Northeast,Standard,27,3.3
+CUST_0961,Valentina Moore,Female,Jacksonville,FL,South,Standard,66,7.6
+CUST_0962,Isaac Thomas,Male,Denver,CO,West,Gold,26,3.9
+CUST_0963,Hana Kim,Female,New York,NY,Northeast,Gold,30,6.1
+CUST_0964,Caleb Hill,Male,Jacksonville,FL,South,Standard,58,4.4
+CUST_0965,Chloe Silva,Female,Portland,OR,West,Standard,23,7.4
+CUST_0966,Daniel Khan,Male,Los Angeles,CA,West,Standard,44,2.3
+CUST_0967,Noor Roy,Female,Miami,FL,South,Standard,31,0.6
+CUST_0968,Daniela Gonzalez,Female,Los Angeles,CA,West,Gold,45,3
+CUST_0969,Luna Garcia,Female,San Antonio,TX,South,Gold,57,4.7
+CUST_0970,Elizabeth Dubois,Female,Nashville,TN,South,Standard,65,1.7
+CUST_0971,Victor Wilson,Male,Victoria,BC,Western Canada,Standard,31,3.5
+CUST_0972,Andrew Zhang,Male,Baltimore,MD,Northeast,Standard,62,4
+CUST_0973,Amir Brown,Male,Detroit,MI,Midwest,Gold,70,0.6
+CUST_0974,Ethan Hill,Male,Washington,DC,Northeast,Standard,56,5.8
+CUST_0975,Harper Iqbal,Female,San Francisco,CA,West,Platinum,65,8.8
+CUST_0976,Logan Harris,Male,Charlotte,NC,South,Gold,43,1.5
+CUST_0977,Abigail Young,Female,Dallas,TX,South,Standard,35,6
+CUST_0978,Amelia Khan,Female,Detroit,MI,Midwest,Standard,32,6.6
+CUST_0979,Leah Moreau,Female,Nashville,TN,South,Platinum,44,4.2
+CUST_0980,Lucas Nguyen,Male,Raleigh,NC,South,Standard,23,7
+CUST_0981,Riley Li,Female,Dallas,TX,South,Standard,30,4.1
+CUST_0982,Leila Castillo,Female,Houston,TX,South,Standard,51,5
+CUST_0983,Samuel Ramirez,Male,Phoenix,AZ,West,Gold,68,0.1
+CUST_0984,Priya Williams,Female,Los Angeles,CA,West,Gold,26,6.9
+CUST_0985,Hannah Perez,Female,Los Angeles,CA,West,Gold,65,6.6
+CUST_0986,Liam Nguyen,Male,Charlotte,NC,South,Platinum,30,0.4
+CUST_0987,Sophia Iqbal,Female,New York,NY,Northeast,Platinum,47,3.7
+CUST_0988,Carlos Iqbal,Male,San Antonio,TX,South,Platinum,60,9.8
+CUST_0989,David Roy,Male,Denver,CO,West,Standard,42,4.2
+CUST_0990,Xavier Singh,Male,Phoenix,AZ,West,Standard,64,5
+CUST_0991,Liam Garcia,Male,Baltimore,MD,Northeast,Gold,42,9.1
+CUST_0992,Matthew Young,Male,Las Vegas,NV,West,Gold,69,7.2
+CUST_0993,Mateo Martinez,Male,Columbus,OH,Midwest,Gold,47,5.8
+CUST_0994,Naomi Williams,Female,Jacksonville,FL,South,Standard,62,8
+CUST_0995,Camila Khan,Female,Houston,TX,South,Gold,66,8.6
+CUST_0996,Elizabeth Carter,Female,San Diego,CA,West,Gold,45,4.6
+CUST_0997,Andrew Khan,Male,Detroit,MI,Midwest,Standard,44,4.8
+CUST_0998,Victor Walker,Male,Boston,MA,Northeast,Standard,48,3.9
+CUST_0999,Zoe Carvalho,Female,Denver,CO,West,Standard,38,9.7
+CUST_1000,Amir Roy,Male,Philadelphia,PA,Northeast,Standard,52,7
