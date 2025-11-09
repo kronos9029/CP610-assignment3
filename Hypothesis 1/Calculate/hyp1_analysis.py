@@ -6,8 +6,8 @@ import pandas as pd
 from scipy import stats
 
 
+## Read the exported CSV, drop any summary row, and keep only real customers."""
 def load_data(csv_path: Path) -> pd.DataFrame:
-    """Read the exported CSV, drop any summary row, and keep only real customers."""
     df = pd.read_csv(csv_path)
     required = {"Customer ID", "Customer Age Value", "Total Spent Sum", "Age Group"}
     missing = required.difference(df.columns)
@@ -16,9 +16,8 @@ def load_data(csv_path: Path) -> pd.DataFrame:
     df = df.dropna(subset=["Age Group"]).copy()
     return df
 
-
+## Print the headcount, average spend, and spread for each age group to compare to Excel.
 def summarize_groups(df: pd.DataFrame) -> pd.DataFrame:
-    """Print the headcount, average spend, and spread for each age group so we can compare to Excel."""
     summary = df.groupby("Age Group", observed=False)["Total Spent Sum"].agg(
         ["count", "mean", "std", "var"]
     )
@@ -26,9 +25,8 @@ def summarize_groups(df: pd.DataFrame) -> pd.DataFrame:
     print(summary.to_string(float_format=lambda x: f"{x:,.2f}"))
     return summary
 
-
+## Calculate the full ANOVA table (sums of squares, degrees of freedom, mean squares, F, p).
 def run_anova(df: pd.DataFrame) -> dict:
-    """Calculate the full ANOVA table (sums of squares, degrees of freedom, mean squares, F, p)."""
     group_stats = df.groupby("Age Group", observed=False)["Total Spent Sum"].agg(
         ["count", "mean", "var"]
     )
@@ -74,8 +72,8 @@ def run_anova(df: pd.DataFrame) -> dict:
     return results
 
 
+## Create a boxplot of total spend by age group and save it."""
 def plot_boxplot(df: pd.DataFrame, output_dir: Path) -> None:
-    """Create a boxplot of total spend by age group and save it."""
     fig, ax = plt.subplots(figsize=(6, 4))
     df.boxplot(column="Total Spent Sum", by="Age Group", ax=ax, grid=False)
     ax.set_title("Total Spend by Age Group")
@@ -88,8 +86,8 @@ def plot_boxplot(df: pd.DataFrame, output_dir: Path) -> None:
     plt.close(fig)
 
 
+## Draw QQ plots (normal probability plots) for each age group."""
 def plot_qq(df: pd.DataFrame, output_dir: Path) -> None:
-    """Draw QQ plots (normal probability plots) for each age group."""
     groups = df["Age Group"].unique()
     n = len(groups)
     fig, axes = plt.subplots(1, n, figsize=(5 * n, 4))
@@ -113,8 +111,8 @@ def plot_qq(df: pd.DataFrame, output_dir: Path) -> None:
     plt.close(fig)
 
 
+## Load data, show summary stats, and run ANOVA.
 def main() -> None:
-    """Load data, show summary stats, and run ANOVA."""
     csv_path = Path(__file__).with_name("hyp1_data.csv")
     df = load_data(csv_path)
     summarize_groups(df)
