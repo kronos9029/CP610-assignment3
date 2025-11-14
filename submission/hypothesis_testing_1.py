@@ -131,7 +131,8 @@ def plot_qq(df: pd.DataFrame, output_dir: Path) -> None:
 
 ## Load data, show summary stats, and run ANOVA.
 def main() -> None:
-    csv_path = Path(__file__).with_name("hyp1_data.csv") # Path to CSV file
+    base_dir = Path(__file__).parent
+    csv_path = base_dir / './datasets/hyp1_data.csv' # Path to CSV file
     df = load_data(csv_path) # Load data
     summarize_groups(df) # Summarize groups
     run_anova(df) # Calculate ANOVA
