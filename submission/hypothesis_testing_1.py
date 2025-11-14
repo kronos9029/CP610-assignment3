@@ -136,9 +136,8 @@ def main() -> None:
     df = load_data(csv_path) # Load data
     summarize_groups(df) # Summarize groups
     run_anova(df) # Calculate ANOVA
-    output_dir = csv_path.parent # Output directory
-    plot_boxplot(df, output_dir) # Create boxplot
-    plot_qq(df, output_dir) # Create QQ plots
+    plot_boxplot(df, base_dir) # Create boxplot
+    plot_qq(df, base_dir) # Create QQ plots
 
 
 if __name__ == "__main__":
